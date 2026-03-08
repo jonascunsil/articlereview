@@ -1,0 +1,1236 @@
+Arshied Manzoor, Basharat Yousuf, Junaid Ahmad Pandith, Saghir Ahmad,
+Plant-derived active substances incorporated as antioxidant, antibacterial or antifungal components in coatings/films for food packaging applications,
+Food Bioscience,
+Volume 53,
+2023,
+102717,
+ISSN 2212-4292,
+https://doi.org/10.1016/j.fbio.2023.102717.
+(https://www.sciencedirect.com/science/article/pii/S2212429223003681)
+Abstract: Many investigations have been carried out analyzing the characteristics of various materials for development of edible coatings/films for food applications. Subsequent modifications for improvement and ameliorating the film/coating characteristics has been the pivot of research in the last decade. An inclination has developed among researchers towards use of plant-based active substances for development of food products and food packaging. Plant based materials have been widely used as antioxidants or antimicrobials in film/coating formulations. Such materials include plant extracts, essential oils, oleoresins, and plant exudates. The compounds present in these materials mostly perform the antibacterial, antiviral, antifungal, antioxidant, and anti-browning functions. Such compounds may also be isolated from plant materials and then incorporated into edible coatings/films. This document is a comprehensive review describing the plant derived active substances used as antimicrobial and antioxidant components in edible films/coating. It also focuses on their applications for improving quality of different foods along with their safety regulations.
+Keywords: Antimicrobial packaging; Edible films; Plant derived antioxidants; Plant exudates; Spice oleoresins
+
+Junyan Guo, Saroat Rawdkuen, Abdulhakeem S. Alamri, Majid Alhomrani, Tao Fei, Zhaoxian Huang, Wanli Zhang,
+Insights into recent research progress and innovations regarding the application of xanthan gum in the field of food packaging,
+Food Packaging and Shelf Life,
+Volume 49,
+2025,
+101532,
+ISSN 2214-2894,
+https://doi.org/10.1016/j.fpsl.2025.101532.
+(https://www.sciencedirect.com/science/article/pii/S2214289425001024)
+Abstract: Food packaging plays a critical role in safeguarding perishable commodities from abiotic environmental stressors and biological contamination vectors. Advanced packaging systems mitigate environmental stressors and contamination to preserve food quality. However, the overuse and improper disposal of non-biodegradable plastic packaging materials have led to environmental concerns and health risks. Developing suitable biopolymer-based food packaging films as replacements for traditional plastic films has become a significant goal in food science. Polysaccharides are frequently used as raw materials for the production of these biopolymer films. Among them, xanthan gum (XG) is an extracellular polysaccharide with remarkable film-forming properties. XG has diverse applications in various industries, including food, industrial, pharmaceutical, agricultural, and petroleum sectors. This work comprehensively summarizes recent advancements in the preparation and application of XG-based materials for food packaging, with a particular focus on the characterization of XG-containing composite films. It provides a thorough overview of recent progress, outlining practical applications of XG-based composite films and edible coatings in improving food preservation. This review aims to provide a valuable reference for the application of XG-based packaging films in the food industry and promote the development of a sustainable food packaging industry.
+Keywords: Xanthan gum; Biopolymer; Food packaging; Film; Coating
+
+Xiaowei Zhang, Zan Cheng, Xiaoyan Zhao, Hongkai Liu, Haifang Hu, Meng Wang, Junguo Guo,
+Effects of the oat β-glucan on the functional and structural properties of defatted walnut meal flour,
+Food Chemistry Advances,
+Volume 1,
+2022,
+100071,
+ISSN 2772-753X,
+https://doi.org/10.1016/j.focha.2022.100071.
+(https://www.sciencedirect.com/science/article/pii/S2772753X22000594)
+Abstract: The effects of oat β-glucan (OβG) with different concentrations (0–2.5%) on the functional and structural properties of walnut meal flour (WMF) were investigated. Fourier transform infrared (FTIR) analysis showed that the β-sheet content in WMF-OβG mixtures increased to 48.13%, while α-helix, random coil and β-turn decreased to 13.79%, 12.08% and 25.28%, respectively. Scanning electron microscopy (SEM) analysis exhibited that the surface structures of WMF and WMF-OβG mixtures were similar. Moreover, WMF-OβG mixtures presented a larger average particle size and a lower zeta-potential. Differential scanning calorimetry (DSC) result confirmed that the transition temperature of WMF-OβG mixtures was significantly higher than WFM, but the enthalpy was lower (p < 0.05). The rheological evaluation revealed that the OβG increased the storage modulus (G′), loss modulus (G′′) and viscosity of WMF. The WMF-OβG mixtures showed the higher foaming capacity, foaming stability and emulsion stability than that of WMF, while the emulsifying activity decreased. These findings suggest that OβG is an appropriate ingredient for modifying WMF functional properties, and can be potentially used in bakery, beverage and meat products.
+Keywords: Walnut meal flour; Oat β-glucan; Structure; Rheological property; Emulsifying property; Foaming property
+
+Hanbing Jia, Feiyue Ren, Hongzhi Liu,
+Evaluation of bioaccessibility and bioavailability of dietary bioactives and their application in food systems,
+Food Bioscience,
+Volume 62,
+2024,
+105428,
+ISSN 2212-4292,
+https://doi.org/10.1016/j.fbio.2024.105428.
+(https://www.sciencedirect.com/science/article/pii/S2212429224018595)
+Abstract: Dietary bioactives exist widely in fruits, vegetables, grains, and nuts, and are highly favored by consumers due to their diverse health benefits, including managing type Ⅱ diabetes, hypertension, cardiovascular diseases, obesity, and cancer. However, their bioaccessibility and bioavailability are limited due to stability and water solubility issues. This review discusses the impact of chemical structure, other nutrients in food matrices, and thermal and non-thermal processing on the bioaccessibility, and bioavailability of bioactive components. Additionally, it analyzes emerging technologies such as supercritical carbon dioxide treatment, cold atmospheric plasma treatment, nano particles, and edible coatings in food processing. It emphasizes their potential to enhance bioavailability, antioxidant capacity, and sensory properties of bioactive components, aligning with sustainable development principles. The review also provides a retrospective on optimizing nanostructure preparation, including suitable natural materials, states, and processing conditions, offering guidance for future research.
+Keywords: Plant-based food; Food matrix; Processing; Metabolism; Nano encapsulation
+
+Anna Abdolshahi, Farideh Tabatabaie yazdi, Ali Akbar Shabani, Seyed Ali Mortazavi, Leila Monjazeb Marvdashti,
+Aflatoxin binding efficiency of Saccharomyces cerevisiae mannoprotein in contaminated pistachio nuts,
+Food Control,
+Volume 87,
+2018,
+Pages 17-21,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2017.12.008.
+(https://www.sciencedirect.com/science/article/pii/S095671351730587X)
+Abstract: Mannoprotein (mannan), an important cell wall component of Saccharomyces cerevisiae, is a bioactive glycoprotein that has aflatoxin binding effect. In this study, mannan from the cell wall of Saccharomyces cerevisiae was extracted and lyophilized. Aflatoxin binding assay of mannan in water/methanol were spiked with 0.5 μl. Aflatoxin standard solution showed that aflatoxin binding and mannan concentration had a positive correlation (p < 0.05). To evaluate the binding efficacy of mannan on aflatoxin content in pistachio, the contaminated pistachio kernels were soaked in mannan solution (25 and 50 mg/ml). Highest binding percent (84.40 ± 0.20% for aflatoxin B1) was seen in higher concentration of mannan. An increasing trend was observed by contact time (5, 15, 30, 60,120, 180 min); furthermore, there were 80% aflatoxin binding occurrence in the first 5 min contact time. The aflatoxin binding efficacy of mannan incorporated in gelatin -based coating on pistachio showed that the gelatin/mannan (3.5:1.5) coating can bind 83.49 ± 0.17% aflatoxin in contaminated pistachio. Since aflatoxin contamination of nuts such as pistachio is a critical defect in quality of control and safety guarantee, elimination/reduction of aflatoxin content attracted more attentions. According the results of this study, mannan alone or in corporation with gelatin -based coating has a potential application to reduce aflatoxin level in contaminated pistachio.
+Keywords: Aflatoxin; Binding; Coating; Mannoprotein; Pistachio
+
+Tharindu R.L. Senadheera, Amal Samarasinghe, Janak K. Vidanarachchi, Himali Samaraweera,
+Effects of cashew (Anacardium occidentale L.) gum and chitosan coating on the physico-functional properties and shelf life of chicken eggs stored at room temperature,
+Food Wellness,
+Volume 1, Issue 1,
+2025,
+100017,
+ISSN 3050-7111,
+https://doi.org/10.1016/j.foodw.2025.100017.
+(https://www.sciencedirect.com/science/article/pii/S3050711125000179)
+Abstract: Purpose
+To investigate how cashew gum and chitosan coatings influence shelf life and the physico-functional properties of chicken eggs stored at room temperature (29 °C), compared with uncoated eggs.
+Methods
+A total of 960 eggs (52-week-old Shaver Brown) were randomly assigned to four treatments: chitosan, cashew gum, mineral oil (positive control), and uncoated (negative control). Eggs were stored at 29 °C, and internal quality parameters (weight loss, Haugh unit, yolk index, yolk color, air cell depth, albumen pH, yolk pH), functional properties (gelling, foaming, rheology), and microbiological safety (total viable aerobic plate count) were assessed weekly for six weeks. Data were analyzed using a Completely Randomized Design, with means compared by Least Square Means Test (α = 0.05).
+Results
+Coated eggs exhibited better preservation of internal quality compared to uncoated eggs. Mineral oil performed the best while cashew gum and chitosan coatings performed closest to it, maintaining higher Haugh unit, yolk index, and yolk color values. Uncoated eggs showed the highest weight loss and air cell depth while the lowest weight loss was recorded by mineral oil coated eggs. No significant differences (P > 0.05) were observed in functional properties among treatments. Microbiological analysis confirmed all coated eggs remained safe for consumption throughout storage. Sensory evaluation indicated comparable acceptability, except for surface glossiness in cashew gum-coated eggs.
+Conclusion
+Cashew gum (CG) is an effective, low-cost alternative to mineral oil (MO) for preserving egg quality during room-temperature storage, performing comparably to MO and superior to chitosan (CH) and uncoated treatments.
+Keywords: Chicken eggs coating; Quality; Storage; Preservation
+
+Manjesh Guligenahalli Narayanappa, Veena Gonibeedu Lakshmana, Rajkumar Arjun Dagadkhair, Jamboor Dinakara Adiga, Shamsudheen Mangalassery, Bratati Chowdhury, Dalasanuru Chandregowda Manjunathagowda, Babli Mog, Lokesha Ankanahalli Narayanashetty,
+Elucidation of phenolic metabolites combined with OPLS-DA in pseudocarps and leaves of cashew (Anacardium occidentale L) cultivars using LC-MS/MS,
+Journal of Food Composition and Analysis,
+Volume 148, Part 1,
+2025,
+108105,
+ISSN 0889-1575,
+https://doi.org/10.1016/j.jfca.2025.108105.
+(https://www.sciencedirect.com/science/article/pii/S0889157525009202)
+Abstract: The cashew industry generates a significant number of by products, particularly Cashew pseudo fruits, which account for 90 % of the fruit and largely remain unutilized. Cashew pseudocarps are a valuable source of bioactive compounds and are highly perishable. Characterizing the phenolic profile of cashew cultivars is a crucial step, providing insights for their potential use as food ingredients and revamping the cashew value chain in India. In this context, high-performance liquid chromatography (HPLC) coupled with tandem quadrupole detector mass spectrometry (TQD MS/MS), has proven to be an effective technique for quantifying phenolic compounds. The present study describes the variability in morphological traits of pseudocarps, where the weight and width differed significantly. The phenolic compounds significantly differed among the cultivars, which could influence the morpho-biochemical properties of the pseudocarp. Multivariate analysis with the Orthogonal Partial Least Squares Discriminant Analysis resulted good fit of the model with R²X = 0.532, R²Y = 0.89, and Q² = 0.873, and identified the key differentiating phenolic compounds among the cultivars. Targeted quantification of cumulative phenolic compounds was highest in Purple type in leaves and VTH-174 in pseudocarp. Thus, cashew pseudocarp and leaves of these cultivars could be excellent sources for nutraceutical values with biological significance.
+Keywords: Cashew; Fruit; Leaf; Polyphenol; Correlation; Quality
+
+Humeyra Cavdar Dincturk, Meryem Seri, Gizem Sevval Tomar, Rukiye Gundogan, Asli Can Karaca,
+Chapter 13 - Edible packaging and coatings,
+Editor(s): Seid Mahdi Jafari, Wanli Zhang,
+In Unit Operations and Processing Equipment in the Food Industry,
+Packaging Operations in the Food Industry,
+Woodhead Publishing,
+2026,
+Pages 285-323,
+ISBN 9780128197691,
+https://doi.org/10.1016/B978-0-12-819769-1.00004-0.
+(https://www.sciencedirect.com/science/article/pii/B9780128197691000040)
+Abstract: Edible coatings and films have a potential role in food preservation by extending shelf life and enhancing sensory attributes. These products stand out with their ability to be easily degraded both biologically and environmentally. These materials can significantly extend the shelf life of food, as well as ensure food safety and quality of the products. This chapter highlights the applications of edible coatings and films on various food products in terms of different raw materials and novel applications. Polysaccharides, lipids, and proteins are commonly preferred raw materials. Polysaccharide-based films or coatings derived from starch, cellulose, pectin, and chitosan are known for their strong, transparent barrier-forming properties, but they often need different modifications for improved mechanical and water vapor barrier properties. In addition, the use of extracellular polysaccharides as coating and film material is a valuable area of study and has a potential for applicability. Differently from polysaccharides, lipid-based coatings or films provide strong and effective moisture barriers. Protein-based films and coatings obtained from soy, whey, and gelatin are commonly effective in preserving the freshness of food products with their strong oxygen barrier properties. Recent studies also examine the integration of bioactive compounds such as antioxidants and antimicrobials into coatings and films and their possible effects on food products. Other than basic food raw materials, the evaluation of food by-products or wastes is one of the practices that can be implemented to prevent loss and support sustainable production. Apart from all these research topics, studies conducted in recent years focus on the application of nanotechnology and nanomaterials in edible food packaging applications. Nanotechnology-based applications provide significant enhancement in packaging quality parameters. However, there are some ethical and health concerns in this context. Therefore, each material needs to be investigated in more detail, and clear regulations must be established regarding their use.
+Keywords: Edible coatings; biodegradable packaging; natural polymers; barrier properties; active packaging; nanotechnology applications
+
+Lili Zheng, Ziang Tian, Binling Ai, Yang Yang, Xiaoyan Zheng, Yongxia Liu, Dao Xiao, Zhanwu Sheng, Jianguang Qin,
+Double network hydrogel coating improved avocado freshness preservation: Preparation, testing and mechanism,
+Food Hydrocolloids,
+Volume 163,
+2025,
+111085,
+ISSN 0268-005X,
+https://doi.org/10.1016/j.foodhyd.2025.111085.
+(https://www.sciencedirect.com/science/article/pii/S0268005X25000451)
+Abstract: This study aims to design a functional double network hydrogel (DN) coating using a simple, cost-effective process for fruit preservation and to explore a novel approach employing edible DN for avocado storage. The DN was fabricated by combining amyloid fiber (AF) with epigallocatechin gallate (EGCG) and chitosan (CS), cross-linked using natural genipin (GP). The two biopolymer networks were optimized in specific proportion to form a homogeneous microstructure, which was applied to avocado surface via a liquid-solid phase transition to enhance storability at ambient temperature. The results demonstrated that the DN coating exhibited significantly lower water vapor transmittance (389.65 ± 3.62 g m−2d−1) and complete UV-light blockage (0% transmittance). Additionally, it showed a markedly higher free radical scavenging capacity (106.97%–116.20%) compared to CS and demonstrated strong antimicrobial efficacy against pathogens, including Staphylococcus aureus (51.00%), Escherichia coli (62.12%), Listeria (30.60%) and Pseudomonas aeruginosa (66.24%). Moreover, the DN coating achieved the desired performance in avocado preservation. Avocados coated with DN extended their shelf life to 12 d while maintaining fruit quality. During storage, the DN coating inhibited fruit respiration, reduced ethylene release, and enhanced the activity of antioxidant enzymes (SOD and POD) in vivo. This study demonstrates that the DN coating as a promising strategy for food preservation due to its simplicity, safety, and effectiveness, offering significant potential for practical applications in the food industry.
+Keywords: Double network hydrogel; Edible coating; Keep fresh; Avocados preservation
+
+Asaad Habibie, Navid Yazdani, Mahmoud Koushesh Saba, Kourosh Vahdati,
+Ascorbic acid incorporated with walnut green husk extract for preserving the postharvest quality of cold storage fresh walnut kernels,
+Scientia Horticulturae,
+Volume 245,
+2019,
+Pages 193-199,
+ISSN 0304-4238,
+https://doi.org/10.1016/j.scienta.2018.10.022.
+(https://www.sciencedirect.com/science/article/pii/S0304423818307258)
+Abstract: This study assessed the effects of antioxidant edible coating on the walnut green husk extract (WGHE) in combination with ascorbic acid (AsA) and the effects were studied on the postharvest quality of fresh kernels (FKs). FKs were dipped in distilled water (Control), WGHE (0.15 and 0.3 g L−1), AsA 1 % and the combination of treatments. The samples were stored for 60 days at 4 ± 1 °C with 93 % relative humidity. The results showed that low temperature increased the levels of total phenols (TP), reduced the polyphenol oxidase (PPO) enzyme activities after 15 days of storage and preserved the antioxidant activity (AC) for up to 30 days of storage. Compared with uncoated kernels, all coated samples inhibited the increase in microbial growth, peroxide index (PI) and PPO activity. The values of TP, AC, color and sensory properties were also significantly preserved as a result of coating the FKs. In summary, all edible coatings may be used to extend the shelf life of the FKs in dry environment.
+Keywords: Antioxidant; Browning; Edible coating; Sensory properties
+
+My Dong Lieu, Thao Vy Phuong, Thi Thanh Binh Nguyen, Thi Kim Thuy Dang, Thuy Huong Nguyen,
+A review of preservation approaches for extending avocado fruit shelf-life,
+Journal of Agriculture and Food Research,
+Volume 16,
+2024,
+101102,
+ISSN 2666-1543,
+https://doi.org/10.1016/j.jafr.2024.101102.
+(https://www.sciencedirect.com/science/article/pii/S266615432400139X)
+Abstract: Avocado (Persea americana Mill) is a popular tropical fruit that is rich in nutrients and bioactive compounds. Besides, as a climacteric fruit with strong respiratory, internal metabolic processes and external factors easily damage avocados. During avocado fruit storage, several factors are taken into consideration. These include alterations in skin and mesocarp color, browning degree, hardness level, weight loss, damage rate, and the organoleptic quality of the mesocarp. Therefore, strategies to improve the avocado shelf-life have received much attention. Post-harvest avocado treatments include cold temperature, chemical use, atmospheric adjustments, irradiation, antagonistic microorganisms, essential oil, edible coating, etc. Each method has its advantages and disadvantages for avocado preservation. Edible coatings (ECs) have emerged as a practical, cost-effective, and eco-friendly approach to extend the shelf life of avocado fruit. Combining the composition of ECs with additional ingredients such as natural antimicrobial agents, antagonistic microorganisms, film structure reinforcements, etc., and appropriate storage conditions would be a potential “green” approach to improve the quality of avocado fruits.
+Keywords: Avocado; Damaged pathogens; Edible coating; Essential oil; Post-harvest loss; Preservation methods
+
+Rui Li, Anand Kumar Sharma, Junchao Zhu, Bo Zheng, Gengsheng Xiao, Ling Chen,
+Nutritional biology of chestnuts: A perspective review,
+Food Chemistry,
+Volume 395,
+2022,
+133575,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2022.133575.
+(https://www.sciencedirect.com/science/article/pii/S0308814622015370)
+Abstract: As the requirements of modern society change, the demand for versatile food, which is not only nutritious but easily processed and preserved, is increasing. Chestnut, with vast economic value, is important in daily life and research. Compositionally, besides starch, chestnuts are also rich in protein, essential lipids, and various other compounds that scarce in other popular nuts. Using chestnuts to develop new functional foods is promising, but the most significant is to control of nutrition functions and excellent product quality simultaneously. Considering the economic and nutritional value of chestnuts, here we discussed the physicochemical characteristics and application to highlight its preservation, food safety, incipient, and novel usage while postulating forthcoming advances as well revealing research shortages. This review provides a comprehensive understanding of the nutritional values of chestnuts and theoretical guidance for future research and development of chestnut-based products.
+Keywords: Chestnut; Nutrients; Functions; Materials; Applications
+
+Ajay Kumar, V. Yeka Zhimo, Antonio Biasi, Oleg Feygenberg, Shoshana Salim, James Francis White, Michael Wisniewski, Samir Droby,
+Chapter 18 - Probiotics in edible coatings: Approaches to food security and fruits disease management,
+Editor(s): Ajay Kumar, Samir Droby,
+Food Security and Plant Disease Management,
+Woodhead Publishing,
+2021,
+Pages 371-386,
+ISBN 9780128218433,
+https://doi.org/10.1016/B978-0-12-821843-3.00017-9.
+(https://www.sciencedirect.com/science/article/pii/B9780128218433000179)
+Abstract: In the recent past edible films and coatings have been extensively used as an alternative packaging system over conventional systems to enhance shelf life, fruit quality, and antagonistic properties against phytopathogens. The coatings are composed of various materials including polysaccharides, lipids, and proteins along with some other additives, which provide mechanical support from tearing and also act as a semipermeable barrier for O2, CO2, ethylene, other gases, and liquids. Incorporation of probiotics in the edible coating provides some extra beneficial effects in terms of addition of bioactive or antimicrobial properties, fragrance, coloring agents to the fresh produce, and also enhances the shelf life of food products via inhibiting growth of phytopathogens during storage times. In the recent past various bacterial and yeast probiotics have been applied to reduce the pathogen load from fruit surfaces in postharvest storage or to enhance the shelf life or food quality of the fresh produce.
+Keywords: Biofilm; biopolymer; edible coatings; postharvest storage; phytopathogen; shelf life
+
+Konstantinos Papoutsis, Zahra Shams, Mahboobeh Yazdani, Faraz Muneer, Mahbubjon Rahmatov, Nikwan Shariatipour, Evelyn Elizabeth Villanueva-Gutierrez, Monalisa Sahoo,
+Natural preservation strategies: The potential of bioactive compounds from fruit and vegetable waste to reduce postharvest losses,
+Food Chemistry: X,
+Volume 30,
+2025,
+102917,
+ISSN 2590-1575,
+https://doi.org/10.1016/j.fochx.2025.102917.
+(https://www.sciencedirect.com/science/article/pii/S2590157525007643)
+Abstract: The fruit and vegetable (F&V) waste generated postharvest has the potential of being used for the recovery of bioactive compounds that can be reintroduced into the supply chain to extend the postharvest quality of fresh produce. This review provides in-depth insights into the potential use of natural extracts derived from F&V waste to maintain the commercial and nutritional quality of fresh F&V. The mechanisms of action are comprehensively discussed. Application methods such as edible coatings, dipping solutions, and active packaging films are the main techniques used for the application of natural extracts. Future research integrating advanced -omics technologies is encouraged to unravel the molecular interactions of these bioactive compounds, facilitating the development of environmentally friendly, scalable postharvest treatments. Addressing regulatory challenges and ensuring industry adoption will be crucial in transitioning toward natural alternatives for food preservation, ultimately reducing postharvest losses and promoting sustainability in the fresh produce supply chain.
+Keywords: Antifungal activities; Edible coatings; Horticultural waste; Natural extracts; Postharvest handling; Shelf-life; Waste valorization
+
+Samar Sahraee, Jafar M. Milani, Joe M. Regenstein, Hossein Samadi Kafil,
+Protection of foods against oxidative deterioration using edible films and coatings: A review,
+Food Bioscience,
+Volume 32,
+2019,
+100451,
+ISSN 2212-4292,
+https://doi.org/10.1016/j.fbio.2019.100451.
+(https://www.sciencedirect.com/science/article/pii/S2212429219303736)
+Abstract: Edible packaging can be used to decrease food deterioration. Preventing oxidation is based on eliminating exposure of food products to oxygen by removing oxygen from the packaging headspace and/or adding antioxidants to films and coatings to enhance the antioxidant properties of food surfaces. The impact of major factors such as temperature, environmental humidity, polymer chain interactions, and the hydrophilic/lipophilic properties of packaging materials that may affect the quality of edible coatings and films are described. Addition of active compounds to film formulations is a fundamental way to improve mechanical and chemical resistance of films to oxygen. In addition, using the proper packaging materials with different environmental conditions and for different food products is important to avoid oxygen. A lot of studies such as using low density poly ethylene (LDPE)/starch films containing citric acid (CA) for beef, corn zein films containing butylated hydroxyanisole (BHA) for turkey, gelatin films containing tea polyphenol loaded chitosan nanoparticles for fish oil, and milk protein films containing oregano and pimento for beef muscle packaging have been investigated for their potential to work as degradable polymers to carry antioxidants to protect foods.
+Keywords: Antioxidant; Degradable film; Fat; Food packaging; Meat; Oxidation
+
+Ngoako F. Monyela, Oluwafemi J. Caleb, Helen Pfukwa, Zinash A. Belay,
+Effects of low-pressure and atmospheric plasma treatments alone and combined with coating on quality attributes of ‘Packham’s Triumph’ pear under retail conditions,
+Food and Humanity,
+Volume 5,
+2025,
+100803,
+ISSN 2949-8244,
+https://doi.org/10.1016/j.foohum.2025.100803.
+(https://www.sciencedirect.com/science/article/pii/S2949824425003076)
+Abstract: Pears are highly nutritious fruits, but they are prone to rapid quality deterioration due to accelerated physiological processes and microbial decay during retail display, which results in loss of commercial value and shortened shelf life. Cold plasma activated edible coatings (ECs) hold a significant potential as an effective and environmentally friendly solution for quality preservation of fresh produce, while eliminating the need for synthetic polymer. The current research compared the impact of low-pressure cold plasma (LPCP) and atmospheric plasma jet (Jet), both individually and in combination with sodium alginate coating (LPCP + EC, Jet + EC) on the microbial growth inhibition, physicochemical qualities, and physiological responses of ‘Packham’s triumph’ pear fruit during storage at 15 °C for 12 days. According to the results Jet, LPCP, Jet + EC, and LPCP + EC treatments significantly (p < 0.001) decreased the total microbial load on the fruit samples during storage in comparison to the control. Both LPCP + EC and Jet + EC treatments were most effective (p < 0.001) in delaying the ethylene production rate, respiration rate (RCO2) and loss of firmness (p = 0.002), while minimising weight loss and retaining the colour of the fruit (p < 0.001). Strong correlation was found between weight loss, firmness, respiration rate and ethylene production as well as moderate correlations were found between the microbial counts and quality parameters. Overall, CP and coating combined treatments offered a desirable alternative retail handling system for pears.
+Keywords: Sodium alginate coating; Plasma treatment; Microbial load; Non-thermal technology; Postharvest physiology; Postharvest quality
+
+Yuqi Dong, Qingyu Wang, Zhuo Wang, Yanwen Wu, Jie Ouyang, Boyan Liu,
+Postharvest preservation of chestnuts: Combined application of hydrogen-rich water and a carboxymethyl chitosan/sodium alginate composite coating,
+International Journal of Biological Macromolecules,
+Volume 336,
+2026,
+149280,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2025.149280.
+(https://www.sciencedirect.com/science/article/pii/S014181302509837X)
+Abstract: Hydrogen-rich water (HRW) has shown potential to influence the physiological metabolism of fruits. However, its effects on post-harvest preservation, especially when combined with film or coating treatments, remain underexplored. To optimize the retention and penetration efficiency of HRW in fresh produce and mitigate post-harvest deterioration, fresh chestnuts were treated with HRW and/or coated with a carboxymethyl chitosan/sodium alginate (CMCS/SA) film. The weight loss rate, color, respiration rate, starch metabolism, and antioxidant enzyme activities were analyzed. The HRW treatment contributed to the preservation of cell membrane integrity by regulating the intracellular redox balance, while the CMCS/SA coating reduced weight loss and decay rates by serving as a barrier to microbial infection; its dense film structure also enhanced hydrogen retention efficiency. Moreover, the combination of HRW and CMCS/SA significantly reduced respiratory intensity, enhanced catalase and peroxidase activities, and decreased weight loss, browning, and decay rates of chestnuts compared to the control group. These findings suggest that the combination of HRW and CMCS/SA coating significantly extends the shelf life of chestnuts by offering both antioxidant capacities and physical barrier protection. This study provides novel insights into the synergistic effects of HRW and edible coatings in the post-harvest preservation of fruits.
+Keywords: Carboxymethyl chitosan; Chestnut preservation; Edible coating; Hydrogen-rich water
+
+Hongmei Xiao, Siqi Zhang, Fei Xi, Wanyi Yang, Lei Zhou, Guohua Zhang, Haijun Zhu, Qiuqin Zhang,
+Preservation effect of plasma-activated water (PAW) treatment on fresh walnut kernels,
+Innovative Food Science & Emerging Technologies,
+Volume 85,
+2023,
+103304,
+ISSN 1466-8564,
+https://doi.org/10.1016/j.ifset.2023.103304.
+(https://www.sciencedirect.com/science/article/pii/S1466856423000383)
+Abstract: Fresh walnuts exhibit unique flavor and multiple biological activities, but they are highly perishable due to the lack of practical and cost-effective postharvest preservation technique. In this paper, the quality of fresh walnut kernels treated with deionized water, water containing ClO2, and plasma-activated water (PAW) for 15 min were monitored during 4 °C storage. Results showed that 100-s PAW treatment reduced the total viable count by 1.15 log CFU/g immediately after treatment. The bactericidal and bacteriostatic effects of PAW was superior to 4 mg/L ClO2. PAW-treated samples retained their flavor during 12d storage at 4 °C, while other samples generated odor at 6d. Moreover, PAW treatment could prevent nutritional loss, browning, and rancidity. The increases of peroxidase, polyphenol oxidase, and lipase activities were inhibited after PAW treatment. Hence, PAW treatment can be applied for the preservation of fresh walnut kernels due to its effect on microbial inhibition and quality maintenance.
+Industry relevance
+Non-thermal plasma is an emerging non-thermal food processing technology due to its advantages of non-destructive, pollution-free, high efficiency and short treatment periods. In this study, plasma-activated water (PAW) was applied in the preservation of fresh walnut kernels, and inhibited flavor changes, nutritional loss, microbial growth, browning, and oxidation reaction. When approaching food preservation technologies, especially for heat-sensitive materials, PAW treatment as a novel technique appears to have far-reaching implications for increasing markets by antimicrobial properties, and avoiding the negative impacts on quality attributes.
+Keywords: Fresh walnut kernels; Plasma-activated water; Preservation; Antimicrobial ability
+
+A.G. Ponce, M.R. Moreira,
+Chapter 40 - Casein and Chitosan Polymers: Use in Antimicrobial Packaging,
+Editor(s): Jorge Barros-Velázquez,
+Antimicrobial Food Packaging (Second Edition),
+Academic Press,
+2025,
+Pages 635-652,
+ISBN 9780323907477,
+https://doi.org/10.1016/B978-0-323-90747-7.00041-7.
+(https://www.sciencedirect.com/science/article/pii/B9780323907477000417)
+Abstract: Taking into account the environmental demand and to reduce plastic waste, researchers are developing sustainable active packaging options, including edible coatings and films (ECFs) made from industry residues. The aim of this innovative packaging is to improve food safety and quality, extend shelf life, and reduce plastic and food waste. The demand for fresh and minimally processed fruits and vegetables is rapidly growing, therefore edible coatings and films have emerged as a potential solution that offers numerous advantages in maintaining fruits and vegetables quality. These vegetable products can be susceptible to the growth of pathogen and spoilage microorganisms, and therefore ECFs have an important role in controlling microbial proliferation and enhancing the organoleptic characteristics of the food products. These natural films and coating are extracted from plants and animals in the form of polysaccharides, lipids, and proteins. The main components for producing edible/biodegradable films are film forming biopolymers which includes carbohydrates, proteins, lipids, solubilizing medium, and plasticizers. This review covers the new advancements in ECFs regarding the use of novel components to the improvement of their properties.
+Keywords: Edible coatings; biopreservatives; films forming solutions; shelf life; sensory quality; microbiological quality
+
+Abhinav Upadhyay, Meera Surendran Nair, Hsinbai Yin, Yanyan Liu, Kumar Venkitanarayanan,
+8 - Application of natural antimicrobial coating for controlling food-borne pathogens on meat and fresh produce,
+Editor(s): Mahmood Aliofkhazraei, Nasar Ali, Mircea Chipara, Nadhira Bensaada Laidani, Jeff Th.M. De Hosson,
+Handbook of Modern Coating Technologies,
+Elsevier,
+2021,
+Pages 321-345,
+ISBN 9780444632371,
+https://doi.org/10.1016/B978-0-444-63237-1.00008-5.
+(https://www.sciencedirect.com/science/article/pii/B9780444632371000085)
+Abstract: Despite significant advancements in food science and technology, food-borne illnesses remain a major challenge worldwide. Although the food industry traditionally relies on good manufacturing practices and implementation of hazard analysis critical control points for reducing food contamination during manufacture, preventing food contamination and spoilage during postprocessing storage or transport remains a technological challenge requiring further research. Nearly 30%–50% (~1.2–2 billion tones) of all food produced globally is wasted due to inadequate storage or poor transportation practices. As more and more consumers demand a safe and minimally processed product with enhanced shelf life, edible coatings incorporated with natural antimicrobials represent a safe, effective, and environmentally friendly technology to achieve this goal. Antimicrobial edible coating matrices based on complex polysaccharides, proteins, lipids, or their derivatives have been successfully developed. This chapter will discuss the development, effectiveness, and advantages of antibacterial edible coatings formulated with an array of natural antimicrobials for controlling bacterial contamination and spoilage of meat products, fresh fruits, and vegetables. In addition, the antibacterial mechanism of various ingredients and their effect on the biochemical and physical properties of coating matrix will be discussed.
+Keywords: Antimicrobial coatings; food-borne pathogens; food safety; meat and fresh produce
+
+Ifrah Usman, Saima Sana, Hafiza Madiha Jaffar, Muniba Munir, Atka Afzal, Sadia Sukhera, Isaac Duah Boateng, Muhammad Afzaal, Markos Makiso Urugo,
+Recent progress in edible films and coatings: Toward green and sustainable food packaging technologies,
+Applied Food Research,
+Volume 5, Issue 2,
+2025,
+101070,
+ISSN 2772-5022,
+https://doi.org/10.1016/j.afres.2025.101070.
+(https://www.sciencedirect.com/science/article/pii/S2772502225003786)
+Abstract: The escalating environmental crisis associated with plastic waste has catalyzed the development of sustainable alternatives, with edible coatings and films emerging as eco-friendly and functional packaging solutions. This review provides a comprehensive overview of recent advances in edible packaging technologies, focusing on novel biopolymer-based formulations, nanotechnology integration, and active packaging innovations. Key highlights include the use of natural polymers such as chitosan, starch, alginate, and proteins, often blended or modified to improve mechanical properties, barrier performance, and biodegradability. Special emphasis is placed on the incorporation of bioactive compounds including antioxidants, antimicrobials, and nutraceuticals to enhance food preservation, extend shelf life, and ensure microbial safety. The role of nano-encapsulation and nanocomposite reinforcement is critically analyzed in relation to improved controlled release, stability, and film strength. Moreover, regulatory considerations, scalability issues, and consumer acceptance are explored as critical barriers to widespread commercial adoption. Recent trends such as the use of underutilized agricultural by-products, smart coatings with freshness indicators, and surface wettability engineering are discussed as emerging solutions. Finally, the review identifies strategic research directions, including enhancing mechanical and swelling stability, understanding crystallinity changes due to bioactive incorporation, and developing predictive release models. These insights collectively underline the transformative potential of edible packaging in promoting sustainability, food safety, and circular economy practices across the global food industry.
+Keywords: Edible coating; Edible films; Edible packaging methods; Fruits and vegetables
+
+Haitao Jiang, Wanli Zhang, Yan Xu, Yiqin Zhang, Yijing Pu, Jiankang Cao, Weibo Jiang,
+Applications of plant-derived food by-products to maintain quality of postharvest fruits and vegetables,
+Trends in Food Science & Technology,
+Volume 116,
+2021,
+Pages 1105-1119,
+ISSN 0924-2244,
+https://doi.org/10.1016/j.tifs.2021.09.010.
+(https://www.sciencedirect.com/science/article/pii/S0924224421005343)
+Abstract: Background
+The continuous growth of the world's population has driven the increased demand for fresh fruits and vegetables. Most postharvest fruits and vegetables are susceptible to quality loss and diseases during transport and storage. Numerous studies targeting the preservation of postharvest fruits and vegetables have hitherto been carried out. The processing of plant-derived food unavoidably generates a raft of by-products, which tends to be discarded as food waste. However, plant-derived food by-products (PDFBPs) contain abundant high added-value materials, which have the potential to maintain the postharvest quality of fruits and vegetables.
+Scope and approach
+This review attempts to summarize materials that are prepared from PDFBPs demonstrating the potential to maintain the quality and extend the shelf-life of postharvest fruits and vegetables. In addition, recent studies investigating the preservation effects of materials obtained from PDFBPs on postharvest fruits and vegetables are comprehensively reviewed.
+Key findings and conclusions
+PDFBPs are economical sources of diverse high added-value materials, some of which exhibit the potential to maintain the postharvest quality of fruits and vegetables. These promising materials mainly consist of 1) extracts of bioactive compounds, 2) polysaccharides, oligosaccharides, and proteins, 3) essential oils, and 4) nanoparticles greenly synthesized by extracts. Polysaccharides, oligosaccharides, and proteins could be developed into edible coatings or biodegradable films with excellent oxygen and water barrier properties. Some extracts could be employed as immersion or washing agents to maintain the postharvest quality of fruits and vegetables and improve their resistance against diseases induced by fungal infections. Additionally, extracts, essential oils, and green synthesized nanoparticles could be incorporated into edible coatings or biodegradable films to improve their preservation effects on postharvest fruits and vegetables.
+Keywords: Fruits and vegetables; Postharvest; Food by-products; Extracts; Polysaccharides; Essential oils; Edible coatings
+
+Balakrishnan Jayanthi, Sadasivam Vinoth, Mohan Hariharan, Ramalingam Karthik Raja, Chinnaperumal Kamaraj, Mathiyazhagan Narayanan,
+Valorization of agro-industry wastes for nanocellulose fabrication and its multifunctional applications,
+Biocatalysis and Agricultural Biotechnology,
+Volume 57,
+2024,
+103124,
+ISSN 1878-8181,
+https://doi.org/10.1016/j.bcab.2024.103124.
+(https://www.sciencedirect.com/science/article/pii/S1878818124001075)
+Abstract: Nanocellulose (NC) isolation from different types of agroindustrial wastes is emerging as ital. Field of research, because of its multifunctional applications. This work uses the VOS viewer software for extracting the agroindustry based nanocellulose production. This review specifically grasps the attention of scientists towards on valorization of agricultural wastes as sources for nanocellulose production. It also explores the variety of sources including vegetables, fruits, cereals and nuts. The ecological system is negatively influenced by the chemicals and its derived products; these products have caused the ecological imbalance. The demand for functional materials and fine chemicals made from natural resources is enormous. NC is considered as one of the promising green material and next generation renewable resource. Further, this work describes about the pre-treatment, characterization and synthesis of nanocellulose from agro-industrial waste using mechanical, chemical and enzymatic methods. It also elaborate the management of agricultural wastes for the purpose of reducing environmental impact, use of fossil based fuel resources, assuring the sustainable economic growth and close the circle of green economy and its resource use. In addition, the potential and versatile applications of nanocellulose from diverse industrial and agricultural sources were discussed.
+Keywords: Nanocellulose; VOS viewer; Valorization; Agricultural waste; Packaging; Applications
+
+L.R. Franssen, J.M. Krochta,
+12 - Edible coatings containing natural antimicrobials for processed foods,
+Editor(s): Sibel Roller,
+In Woodhead Publishing Series in Food Science, Technology and Nutrition,
+Natural Antimicrobials for the Minimal Processing of Foods,
+Woodhead Publishing,
+2003,
+Pages 250-262,
+ISBN 9781855736696,
+https://doi.org/10.1533/9781855737037.250.
+(https://www.sciencedirect.com/science/article/pii/B9781855736696500174)
+
+Jaishankar Prasad, Nishant Kumar,  Pratibha, Rushali Jaiswal, Ajay Yadav, Sujata P. Sharma, Olaniyi A. Fawole, Nutan Kaushik,
+Biopolymer based composite packaging: A sustainable approach for fruits and vegetables preservation,
+Applied Food Research,
+Volume 5, Issue 2,
+2025,
+101211,
+ISSN 2772-5022,
+https://doi.org/10.1016/j.afres.2025.101211.
+(https://www.sciencedirect.com/science/article/pii/S2772502225005165)
+Abstract: The rising market demands for biobased and eco-friendly materials for food packaging has been increasing day by day to avoid the over exploitation of natural resources. In recent decades, the use of natural plant and animal derived biopolymers has been used to develop edible coating and films for fruits and vegetable preservation for longer storage periods. These biopolymer-based packaging possess good barrier, mechanical and other biological properties and can be use as alternatives of plastic and synthetic based packaging to avoid the environment and health threats. Despite the potential advantages, there are several disadvantages associated with the use of polysaccharide, protein and lipid/wax containing edible coating and films alone. To overcome these challenges and drawbacks the composite packaging (coating/films) is the best option for fruits and vegetables preservation. The biopolymer composites are also eco-friendly and sustainable materials, which exhibited excellent barrier, mechanical, thermal, and biological properties as compared to alone biopolymer based edible coating and films. Therefore, this review paper aims to explore the potential roles and applications of biopolymer-based composite coatings and films in the preservation of fruits and vegetables. Additionally, the paper addresses the primary limitations associated with polysaccharide, protein, and lipid/wax-based coatings and films. The roles of active agents in composite packaging and their effects on the postharvest shelf life and characteristics of fruits and vegetables are also examined in detail. Moreover, it is anticipated that the utilization of biopolymer-based composites could represent a green and sustainable approach to enhancing the storability of fruits and vegetables.
+Keywords: Bio composites; Proteins; Polysaccharide; Postharvest management; Barrier properties
+
+Hyun Jin Park, Young Jae Byun, Young Teck Kim, W. Scott Whiteside, Ho Jae Bae,
+Chapter 10 - Processes and Applications for Edible Coating and Film Materials from Agropolymers,
+Editor(s): Jung H. Han,
+In Food Science and Technology,
+Innovations in Food Packaging (Second Edition),
+Academic Press,
+2014,
+Pages 257-275,
+ISBN 9780123946010,
+https://doi.org/10.1016/B978-0-12-394601-0.00010-2.
+(https://www.sciencedirect.com/science/article/pii/B9780123946010000102)
+Abstract: Biopolymer based edible biopolymer coatings and films provide an additional protective coating for fresh products and also give equivalent effect as modified atmosphere storage by modifying internal gas composition. Several successful edible coatings and films for preserving fruits such as oranges, apples, and grapefruits have been reported. The success of edible coatings for fresh products totally depends on the control of internal gas composition. This chapter aims to help develop a systematic means of edible coating selection to maximize the quality and shelf life of fresh fruits and vegetables. Detailed methods are introduced to select edible coatings based on their gas permeation properties relative to controlling internal gas composition according to specific target products. The potential advantages of edible biopolymer coatings and films make them appealing to food, packaging, and bioengineering scientists as a research focus.
+Keywords: edible coating; biopolymer; film; active packaging
+
+Chhavi Sharma, Sapna Kundu, Shalini Singh, Juhi Saxena, Sneh Gautam, Amit Kumar, Puneet Pathak,
+From concept to shelf: engineering biopolymer-based food packaging for sustainability,
+RSC Sustainability,
+Volume 3, Issue 11,
+2025,
+Pages 4992-5026,
+ISSN 2753-8125,
+https://doi.org/10.1039/d5su00483g.
+(https://www.sciencedirect.com/science/article/pii/S2753812525002630)
+Abstract: Food packaging plays a crucial role in preventing food spoilage, preserving food quality, minimising food waste, and ensuring food safety. However, the most widely used petroleum-based packaging has environmental and health concerns, which restrict its use. Thus, there is a need for more sustainable options. A viable solution can be the utilization of eco-friendly biopolymers as a substitute for traditional petroleum-based packaging. The primary objective of biopolymer-based food packaging, besides ensuring food safety and quality for consumers, is to address health as well as environmental concerns and reduce negative impacts. However, biopolymer-based materials have certain drawbacks, such as weak mechanical strength and moisture resistance. Thus, it is essential to thoroughly assess the difficulties in employing biopolymers in the food packaging sector and explore strategies to mitigate or eliminate their drawbacks. These challenges can be resolved by the incorporation of some bioactives, functionalization of biopolymers, and using nanotechnological approaches that can upgrade the performance of packaging. New food packaging materials are highly biodegradable and biocompatible, possess appropriate mechanical and thermal strength, and can monitor the real-time freshness of food products. This review provides insightful information about biopolymers that can potentially replace plastic-based packaging in an eco-friendly manner, their origin, functionality, and functionalization using different approaches (blending/composites/edible films/edible coatings/indicators/nanocomposites/nanosensors). The application of biopolymers in various food sectors for enhancing the preservation and packaging is also discussed. Moreover, the integration of SWOT and PESTEL analyses provided here highlights the eco-friendliness and biodegradability of biopolymer packaging as strengths, while their challenges include price, moisture sensitivity and mechanical stability. PESTEL analysis reveals strong political and environmental support for sustainable packaging, but economic scalability and technological roadblocks remain chief obstacles.
+
+R. Preethi, J.A. Moses, C. Anandharamakrishnan,
+Development of anacardic acid incorporated biopolymeric film for active packaging applications,
+Food Packaging and Shelf Life,
+Volume 28,
+2021,
+100656,
+ISSN 2214-2894,
+https://doi.org/10.1016/j.fpsl.2021.100656.
+(https://www.sciencedirect.com/science/article/pii/S2214289421000247)
+Abstract: Biodegradable films with functional characteristics are finding several applications in the active packaging of foods and fresh-cut horticultural produce in particular, as effective alternatives to single-use plastics. In this study, anacardic acid (AA) was extracted from cashew nut shell liquid oil (CNSL) and characterized using GC–MS and HPLC. Further, the extract showed anti-microbial activity against foodborne pathogens such as Escherichia coli, Listeria monocytogenes, Streptococcus faecalis, Salmonella typhi, and Shigella boydii, apart from potent anti-oxidant behavior. With the hypothesis to exploit its food preservation capabilities, packaging films of AA-chitosan blends were prepared; these showed remarkable anti-browning effects on fresh-cut apple slices, superior to chitosan alone. The physical properties of these films were evaluated and the developed film showed around 60 % biodegradability in 30 days. This study highlights a unique application scope for underutilized CNSL.
+Keywords: Anacardic acid; Chitosan; Active packaging; Anti-microbial; Anti-browning; Fresh-cut fruits
+
+Deniz Turan, Yichen Wang, Daan Grundmann, Maxence Paillart, Rudi Dieleman, Anja Rahn,
+Coffee by-product cascara as an edible active coating for enhancing hazelnut preservation and packaging,
+Food Packaging and Shelf Life,
+Volume 45,
+2024,
+101350,
+ISSN 2214-2894,
+https://doi.org/10.1016/j.fpsl.2024.101350.
+(https://www.sciencedirect.com/science/article/pii/S2214289424001157)
+Abstract: Edible active packaging is an innovative solution that extends the shelf life of products, protect it from contamination, and prevent oxidation, without contributing to additional packaging waste. Here this study explores the potential of utilizing cascara extract, a coffee by-product rich in polyphenols and polysaccharides, as a sustainable material for preserving roasted hazelnuts. Gelatin and glycerol are investigated as additives to enhance film properties. Optimal formulations were exhibited promising barrier performance, antioxidant activity and low surface energy. Based on Response Surface Methodology (RSM), the formulation consisted of 5.1 % w/v gelatin as the primary film-forming agent, 89.2 % w/v cascara extract as an active component, 5.7 % w/v glycerol as a plasticizer, showed the highest oxygen barrier property. Accelerated shelf-life testing (ASLT) at 35 and 45 °C indicated selected cascara coating potentially doubling hazelnut shelf life. The cascara edible coating had a brown film appearance which can be acceptable for dark coloured food products in future application. Despite deviations in color, cascara offers potential for sustainable packaging, opening avenues for innovative solutions.
+Keywords: Edible film; Active packaging; Cascara extract; Hazelnut; Shelf life extension; Response surface methodology
+
+Valentina Lacivita, Antonio Derossi, Rossella Caporizzi, Carmela Lamacchia, Barbara Speranza, Angela Guerrieri, Angela Racioppo, Maria Rosaria Corbo, Milena Sinigaglia, Carla Severini,
+Discover hidden value of almond by-products: Nutritional, sensory, technological and microbiological aspects,
+Future Foods,
+Volume 10,
+2024,
+100398,
+ISSN 2666-8335,
+https://doi.org/10.1016/j.fufo.2024.100398.
+(https://www.sciencedirect.com/science/article/pii/S2666833524001047)
+Abstract: The search for a sustainable food system represents a major scientific challenge, as the food products and especially the waste/residues generated, in the various stages of the food chain, continue to grow. Almonds are appreciated worldwide for their sensory, nutritional and functional properties, but also for their great versatility. The expanding market for almonds and almond products (almond oil, almond milk, almond butter etc.) has led to generation of tons of by-products along the processing chain (hull, shell, skin, blanched water etc.). Various scientific papers proved that almond by-products contain an interesting amount of bioactive compounds, thus increasing the scientific interest in their potential reuse. Almond by-products have been examined mainly for their phytochemical composition, for bioethanol production, and for animal feed. Therefore, this review seeks to complete the knowledge dedicated to the valorization of such by-products especially for the food sector, suggesting further applications for reformulating traditional food products or to develop the new ones.
+Keywords: Almond (Prunus dulcis); Almond by-products; Almond okara; Almond press-cake; Food fortification; Technological aspects
+
+Maria del Pilar Garcia-Mendoza, Faber Ariel Espinosa-Pardo, Raphaëlle Savoire, Clément Etchegoyen, Christelle Harscoat-Schiavo, Pascale Subra-Paternault,
+Recovery and antioxidant activity of phenolic compounds extracted from walnut press-cake using various methods and conditions,
+Industrial Crops and Products,
+Volume 167,
+2021,
+113546,
+ISSN 0926-6690,
+https://doi.org/10.1016/j.indcrop.2021.113546.
+(https://www.sciencedirect.com/science/article/pii/S0926669021003101)
+Abstract: Walnut (Juglans regia L.) press-cake is a residue of oil processing from which the phenolic compounds were extracted using ethanol 60 % by batch and semi-continuous operations, or by ultrasound-assisted maceration in the case of de-oiled cake, with particular attention to the variables time and solid-solvent ratio. For batch extraction, the conditions maximizing total phenolic yield (TPC) and radical scavenging activity evaluated by 2,2-diphenyl-1-picrylhydrazyl (DPPH) assay were 60 °C without the addition of phospholipids, provided however for phenolic yield, that an extraction time of 60 min and a ratio of 25 mL of solvent per g of cake were applied. Values of up to 14.8 mg gallic acid equivalent (GAE)/gcake and 136.9 μmol Trolox equivalent/gcake were obtained. The semi-continuous variant gave a TPC of 19.8 mg GAE/gcake and an overall extract containing 8% phenolic compounds and 46 % oil. After de-oiling, the cake was subjected to ultrasound-assisted extraction. The TPC and DPPH varied slightly with the applied conditions, between 10.4 and 13.3 mg GAE/gcake and 83–107 μmol Trolox Equiv./gcake respectively, unless the solid/solvent ratio increased to 1/200 (TPC of 29 mg GAE/gcake). It was also shown that the oxidative stability of Camelina sativa L. Crantz oil increased from 24 to 72 h by enrichment with walnut extract.
+Keywords: Walnut press-cake; Phenolic compounds; Oil oxidative stability; Batch and semi-continuous extraction; Ultrasound-assisted extraction; Response surface methodology
+
+Sayanti Halder, Narlawar Sagar Shrikrishna, Riya Sharma, Pratheeth Bhat, Sonu Gandhi,
+Raising the bar: Exploring modern technologies and biomaterials for enhancing food safety and quality- a comprehensive review,
+Food Control,
+Volume 159,
+2024,
+110287,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2024.110287.
+(https://www.sciencedirect.com/science/article/pii/S0956713524000045)
+Abstract: Food, one of the three basic necessities of human being, is critical for sustainability of life. Therefore, it is utmost to ensure its safety and quality before consumption. It is expected that by 2050, human population to rise over 9 billion. To cater such large population with good quality and safe food is a growing concern. This concern prompted the development of various novel biomaterials and technological innovations to improve the food packaging, food quality and its safety. This review focused on the emerging sensing technologies such as electrochemical biosensing, microfluidic technologies, and conventional analytical approaches for rapid detection of food contaminant to improve food safety and to ease the risk assessment. Additionally, we discussed novel biomaterials derived from food grade polysaccharides, polypeptides, and other biocompatible materials which has grown in the past and still emerging in the field of food science. This review aims to explore the multifaceted applications of novel biomaterials in food packaging, food microbial spoilage control, food edible coatings and food preservation in order to increase the shelf-life and quality of food. With this review, our aim is to provide readers with insights into the latest information regarding ongoing research on the role of biomaterials and sensing technologies in the realm of food industry.
+Keywords: Emerging technologies; Novel biomaterials; Food safety; Food packaging; Food quality; Biosensor; Analytical techniques
+
+Lu Wang, Yan He, Yingying Zhou, Huiqin Xie, Xin Mei, Jinsong Zhao, Qizhen Du, Peng Jin, Dongchao Xie,
+Enhanced antioxidant activity of low-molecular-weight hyaluronan-based coatings amended with EGCG for Torreya grandis kernels preservation,
+Food Chemistry,
+Volume 478,
+2025,
+143742,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2025.143742.
+(https://www.sciencedirect.com/science/article/pii/S0308814625009938)
+Abstract: Polysaccharide coating protection technology has always been a research hotspot in the field of food preservation. In this study, hyaluronic acid (HA), the widely used green polysaccharide was optimized by a free radical mediated method for covalent grafting high antioxidant epigallocatechin gallate (EGCG) to prepare copolymers (HA-EGCG) and applied to the preservation of Torreya grandis kernels. The physicochemical properties, antioxidant activities and application effect of HA-EGCG were investigated. The results found that low-molecular-weight HA (LHA) could obtain a higher grafting rate than high-molecular-weight HA (HHA), reaching 93.5 %. For structural character, the LHA-EGCG showed good stablility, which improved the surface roughness of the edible coating and the addition of EGCG significantly enhanced the antioxidant activities (p < 0.01). For application effect, LHA-EGCG coating significantly inhibit the change of appearance color, and increase of malonaldehyde, acid value, and peroxide value during long-term storage of T. grandis kernels, and could maintain its flavor to prolong quality retention. Collectively, the edible coating of HA grafted EGCG significantly prolong the quality of the kernel and has broad application potential in the field of food preservation.
+Keywords: Hyaluronic acid; EGCG; Edible coating; Antioxidant activity; Food preservation
+
+Bharat Bhushan, Vikas Nanda, Navdeep Jindal,
+Strategies for processing and valorization of ash gourd byproducts: A comprehensive review,
+Food Chemistry,
+Volume 473,
+2025,
+143040,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2025.143040.
+(https://www.sciencedirect.com/science/article/pii/S0308814625002900)
+Abstract: Ash gourd (Benincasa hispida) is cultivated for its medicinal benefits, with processing enhancing its health properties and shelf life. The processing industries generate significant byproducts, with peel and seeds common across all methods, along with lime (from petha sweet production), brine wastewater (from fermented foods), and pulp from juice processing. This review focuses on peel, seeds, and lime wastewater, which contain valuable compounds like polyphenols, terpenoids, essential oils, and ribosome-inactivating proteins known for their antioxidant and antibacterial properties. The review explores the bio-functionalities of these byproducts, highlighting applications in wastewater treatment, bioenergy production, edible coatings, prebiotics, medicinal products, and enzyme production. Rich in polyphenols, flavonoids, and essential oils, these byproducts offer versatile uses, such as biosorption, bio-coagulation, nanoparticle synthesis, bioenergy production, and medicinal formulations. Further research into their potential for functional foods and high-value applications is essential to maximize their benefits for human health, environmental sustainability, and economic growth.
+Keywords: Ash gourd; Byproducts; Polyphenols; Sustainability; Valorization; Biosorption
+
+J. Bonilla, L. Atarés, M. Vargas, A. Chiralt,
+Edible films and coatings to prevent the detrimental effect of oxygen on food quality: Possibilities and limitations,
+Journal of Food Engineering,
+Volume 110, Issue 2,
+2012,
+Pages 208-213,
+ISSN 0260-8774,
+https://doi.org/10.1016/j.jfoodeng.2011.05.034.
+(https://www.sciencedirect.com/science/article/pii/S0260877411002901)
+Abstract: Oxygen has a deleterious effect on the quality of a wide variety of food products. The application of edible films and coatings to food products represents a new approach to solve this problem. Edible films and coatings can include antioxidant agents in their formulation and at the same time, they represent a barrier to oxygen, which results in a better preservation of quality. The water activity of the product, as well as the ambient relative humidity, determines the antioxidant effect of films and coatings. This paper reviews the latest studies dealing with the effectiveness and application of antioxidant films and coatings.
+Keywords: Edible films; Oxygen; Food oxidation; Antioxidant effect; Edible coatings; Nuts; Meat; Fish; Fruit; Vegetables
+
+Claudilane Martins Pontes, Lorena Maria Freire Sampaio, Antonia Carlota de Souza Lima, Maria Izabel Gallão, Maria Raquel Alcântara de Miranda, Kaliana Sitônio Eça, Thomas Karbowiak, Luciana de Siqueira Oliveira,
+Effect of xyloglucan-based coating enriched with cashew apple coproduct extract on quality and antioxidant metabolism of guava during ripening postharvest,
+Food Chemistry Advances,
+Volume 2,
+2023,
+100226,
+ISSN 2772-753X,
+https://doi.org/10.1016/j.focha.2023.100226.
+(https://www.sciencedirect.com/science/article/pii/S2772753X23000461)
+Abstract: This study evaluated the postharvest quality and antioxidant metabolism of ‘Paluma’ guavas treated with a xyloglucan-based coating containing an antioxidant extract from cashew apple coproduct (1%, v/v) (XCE) during ripening for 14 days at 25 °C. It was observed that XCE promoted lower levels of lipid peroxidation of cell membranes and lower activity of wall hydrolytic enzymes (polygalacturonase and pectinmethylesterase), thus a better maintenance of firmness during ripening. It was also observed that XCE increased the antioxidant potential because of the higher ascorbic acid and polyphenols content and the higher activity of antioxidant enzymes. Thus, XCE is a postharvest technology that not only improves the quality of ‘Paluma’ guavas, but also delays the oxidative ripening processes by increasing the antioxidant defense system of the fruit.
+Keywords: Fruit ripening; Edible coating; Antioxidant; Anacardium occidentalle L
+
+Zi-han Wang, Xue-li Liu, Rui-qi Sun, Bin Qi, Jun-xia Xia, Da-yong Zhou, Liang Song,
+Hydration-driven structural engineering via enzymatic glycation: Sustained quercetin release in pullulan-zein coatings for extended walnut preservation,
+Food Hydrocolloids,
+Volume 170,
+2026,
+111705,
+ISSN 0268-005X,
+https://doi.org/10.1016/j.foodhyd.2025.111705.
+(https://www.sciencedirect.com/science/article/pii/S0268005X25006654)
+Abstract: This study developed pullulan-based edible coatings incorporating quercetin-loaded glycated zein nanoparticles (gZein I–III-Que) to mitigate oxidative rancidity in walnuts. Enzymatic glycation-driven hydration engineering modulated interfacial interactions between zein and pullulan, forming structurally homogeneous nanocomposites. The optimized intermediate glycation coating (gZein II-Que@Pul) resolved incompatibility between hydrophobic antioxidants and hydrophilic matrices through uniform nanoparticle dispersion (PDI 0.19 ± 0.02) and enhanced mechanical strength (28.48 ± 0.52 MPa). Hydration-mediated structural reorganization balanced molecular mobility and diffusion resistance, sustaining antioxidant release via non-Fickian kinetics (Korsmeyer-Peppas n = 0.55). The coatings reduced oxygen permeability to 0.10 ± 0.02 kg m−2·s−1 and demonstrated high antioxidant efficiency (I50 = 1.4 mg/mL) alongside cytocompatibility exceeding 80 % cell viability. Applied to walnuts, gZein II-Que@Pul extended shelf life by 528 ± 25 % at 25 °C, retaining 91.76 ± 1.17 % omega-3 and 95.22 ± 0.76 % omega-6 fatty acids. MRI spatial analysis visualized lipid oxidation suppression spatially correlated with hydration-driven quercetin release, validated by peroxide value reductions (57.53 ± 2.73 %). By tailoring glycation degree, this work establishes enzymatic hydration engineering as a scalable strategy for sustainable food preservation. The optimized coating harmonizes bioactive delivery and structural integrity through hydration-modulated diffusion kinetics and interfacial stability, leveraging renewable biopolymers to advance plant protein-polysaccharide hybrids as functional barriers for minimizing postharvest losses in lipid-rich foods.
+Keywords: Hydration-driven interfacial engineering; Enzymatic glycation; Zein-quercetin nanoparticles; Pullulan-based coatings; Walnuts; Shelf-life extension
+
+Osarenkhoe Omorefosa Osemwegie, Adeyemi Ayotunde Adeyanju, Damilare Emmanuel Rotimi, Fisayo Yemisi Daramola, Charles Oluwaseun Adetunji, Francis Bayo Lewu, A.T. Odeyemi,
+Chapter 27 - Biopreservative effects of essential oils in the food industry: oils and nuts, seeds and, seed products,
+Editor(s): Charles Oluwaseun Adetunji, Javad Sharifi-Rad,
+Applications of Essential Oils in the Food Industry,
+Academic Press,
+2024,
+Pages 293-311,
+ISBN 9780323983402,
+https://doi.org/10.1016/B978-0-323-98340-2.00016-X.
+(https://www.sciencedirect.com/science/article/pii/B978032398340200016X)
+Abstract: The use of essential oils (EOs) to prevent the spread of foodborne pathogens and promote food shelf life across various spheres of the food processing chain is rapidly becoming popular amidst challenges associated with the use of chemical food additives. While the application knowledge of EOs as an antioxidant, antiinflammatory, antimicrobial, pesticide, and food additive has been properly documented in the literature, gaps still exist in understanding the underlying mechanism of their action on food spoilage and potentially pathogenic microbes. Many bioactive constituents including the volatile secondary compounds vary with the nature of the organic source of EO even though some have been assayed; their antimicrobial validation on an individual basis has not been fully investigated nor their biosynthetic pathways are well established. Although plants, particularly herbs, form the predominant sources of food additives and EOs compared to bacteria algae, and fungi, the potency, concentration composition, and diversity of the active principles vary significantly across plant parts (leaf, seed, flower, bark, and fruits). These notwithstanding, essential oils have also been suspected to impact the release of food nutrients in the digestive tract, normal flora of the gut and intestine for optimal food benefits. Consequently, this study aims to promote a better understanding of the diverse sources from which EOs of food value can be expressed, application trends in food processing, and potential strategies for disarming spoilage, pathogenic, and toxigenic microorganisms, and toxin molecules in food.
+Keywords: Food additive; biopreservation; EOs; nanoemulsion; essential oil biosynthesis; volatile compounds
+
+Janani Muthukumar, Pavidharshini Selvasekaran, Monica Lokanadham, Ramalingam Chidambaram,
+Food and food products associated with food allergy and food intolerance – An overview,
+Food Research International,
+Volume 138, Part B,
+2020,
+109780,
+ISSN 0963-9969,
+https://doi.org/10.1016/j.foodres.2020.109780.
+(https://www.sciencedirect.com/science/article/pii/S096399692030805X)
+Abstract: Immune-mediated food allergy and non-immune mediated food intolerance are categorized as the most common adverse reactions resulting from the ingestion of certain foods. As there is no standard treatment, the possible remedy to avoid exposure to these adverse reactions is adhering to a strict diet that eliminates allergic and intolerant foods. The commonly consumed foods including dairy products, egg, fish, shellfish, tree nuts, peanut, soybean, and wheat-based products are proven to cause food allergy. Foods containing lactose, gluten, high FODMAPs, biogenic amines, and certain food additives leads to potential health risks in intolerant individuals. Besides, there are various foods whose mechanism of action in triggering food allergy and intolerance is yet to be defined. However, the public in-depth understanding of natural foods, processed foods, and packaged food products that induce allergic reactions and intolerance remains low. Therefore, awareness of diet that partially or completely excludes the intake of certain foods associated with these reactions should be widespread among the consumers.
+Keywords: Food allergy; Allergens; Food intolerance; Food Sensitivity; Food & food products; Elimination
+
+Go Hun Seo, Hary Yu, Min Suk Rhee,
+Synergistic decontamination of Salmonella spp. in raw almonds using phytic acid and drying as an eco-friendly alternative to propylene oxide,
+Food Research International,
+Volume 212,
+2025,
+116476,
+ISSN 0963-9969,
+https://doi.org/10.1016/j.foodres.2025.116476.
+(https://www.sciencedirect.com/science/article/pii/S0963996925008142)
+Abstract: Multistate Salmonella outbreaks involving raw almonds have led to U.S. FDA regulations requiring a minimum 4-log reduction in Salmonella during manufacturing processes. While propylene oxide fumigation is a common industrial pasteurization method, given the growing public concern about the use of synthetic chemicals, alternative methods with significant efficacy and minimal quality deterioration are needed. This study aimed to develop eco-friendly decontamination technology for raw almonds that includes natural-borne substance treatment and drying. The bactericidal effects of phytic acid (1, 2, 3 % (v/w)) and/or drying (6, 8 h at 75 °C) were investigated on Salmonella spp. (S. Enteritidis ATCC 13076, S. Enteritidis PT30, and S. Typhimurium DT104; ca. 3–4 or 6–7 log), which were artificially inoculated in raw almonds at moderate (ca. 3–4 log) or high (ca. 6–7 log) inoculum levels. Additionally, an enrichment test was conducted to validate the recovery of injured cells after treatment. The physicochemical, textural, and sensory attributes (color, pH, water activity, hardness; appearance, color, odor) of untreated/treated almonds were further analyzed. All individual treatments of 1–3 % phytic acid or 6–8 h of drying resulted in low antibacterial efficacies (< 1.0 log reduction from high inoculum and <2.1 log reduction from moderate inoculum; P < 0.05). For the high inoculum, 3 % phytic acid treatment followed by 8 h of drying achieved a >6.2 log reduction in Salmonella spp. in raw almonds (P < 0.05), and most of the injured bacterial cells (83.3 %) showed no recovery after enrichment. The equivalent treatment of almonds at a moderate inoculum level completely eliminated Salmonella spp. (> 3.1 log reduction; P < 0.05) without recovery. Moreover, the panelists indicated no significant differences (P > 0.05) in the tested sensory attributes (appearance, color, and odor) between the optimal treatment and the control, although some physicochemical properties were slightly affected. The results of this study suggest a novel decontamination method using a natural-borne substance that exerts a synergistic effect with drying against Salmonella spp. in raw almonds and ensures minimal deterioration in food quality. The developed method is expected to replace synthetic chemical decontamination methods in nuts and other low-moisture food industries.
+Keywords: Salmonella spp.; Raw almond; Phytic acid; Drying; Pasteurization; Synergistic effect
+
+Francisco Lucas Chaves Almeida, Mariana Pereira Silveira, Rafaela Menezes dos Passos, Weysser Felipe Cândido de Souza, Klicia Araujo Sampaio, Ana Silvia Prata, Marcus Bruno Soares Forte,
+Cashew gum as an alternative biopolymer for partial replacement of sodium alginate in lipase immobilization,
+Next Materials,
+Volume 8,
+2025,
+100813,
+ISSN 2949-8228,
+https://doi.org/10.1016/j.nxmate.2025.100813.
+(https://www.sciencedirect.com/science/article/pii/S2949822825003314)
+Abstract: The search for new wall materials for immobilization processes is a research trend based on exploring the intrinsic characteristics of different formulations. Cashew gum has been reported as a promising biopolymer for this purpose due to its rich chemical composition, low cost, and wide range of applications. For instance, in the food industry, cashew gum is employed in the production of microparticles, edible coatings, and as a stabilizing, emulsifying, and thickening agent. There is a lack of studies investigating the immobilization of some new promising lipases, such as Eversa Transform 2.0. In view of this gap, this study aimed to investigate the effect of partial replacement of alginate with cashew gum in Eversa Transform 2.0 immobilization by jet cutting technique. Scanning electron microscopy showed that beads containing 1 % alginate and 1 % cashew gum (CAS) were less porous than beads containing 2 % alginate only (ALG). Thermogravimetric analysis revealed three main degradation steps, with a total mass loss of approximately 70 % for both beads. X-ray photoelectron spectroscopy showed that CAS and ALG beads had nitrogen contents of 6.10–6.98 % and 4.68–5.93 %, respectively. In enzyme recovery experiments, ALG and CAS achieved total activity recovery yields of 41.95 % ± 2.01 % and 48.28 % ± 0.21 %, respectively. A batch transesterification experiment showed that both biocatalysts achieved about 90 % triglyceride conversion, resulting in an ester yield of about 40 %. The findings demonstrate that cashew gum is an interesting alternative wall material for heterogeneous biocatalysis, owing to its natural abundance, low cost, and biocompatibility, contributing to the development of cost-effective and sustainable biocatalytic processes.
+Keywords: Green biocatalysis; Biopolymer-based immobilization; Enzyme stabilization; Jet cutting; Anacardium occidentale
+
+Sabyasachi Ghosh, Mustafa Ahmed, Swarup Roy,
+Chapter 12 - Nanotechnology in edible films and coatings,
+Editor(s): Tabli Ghosh, Swarup Roy, Łukasz Łopusiewicz,
+In Micro and Nano Technologies,
+Advancements in Nanotechnology for Food and Packaging,
+Elsevier,
+2025,
+Pages 349-376,
+ISBN 9780443214288,
+https://doi.org/10.1016/B978-0-443-21428-8.00012-6.
+(https://www.sciencedirect.com/science/article/pii/B9780443214288000126)
+Abstract: Nowadays, there is a growing concern among consumers about food spoilage and safety. Moreover, the packaging materials used in the food sector are often nonedible and nonbiodegradable. To address this serious issue, edible film and coating can be a promising alternative to the conventional packaging. Many naturally derived edible biopolymers have the potential to replace petrochemical-derived fossil-based polymers. The biopolymer-based edible film and coating are effective in improving the shelf-life of food but they often lack functionality as a result. The activation with nanomaterials further enriches the potential of edible coating and film. Food packaging and nanotechnology are developing research areas that have the potential to overcome numerous limitations in the food packaging industry. Nanotechnology in food packaging substance has numerous advantages over traditional packaging methods since it improves food quality and safety, informs consumers whether their diets are spoilt or not, repairs tears in packaging, and extends the duration of food storage. Recently, various types of nanomaterials have been included in making bio-based edible film and coating and have been applied to sustainable packaging applications. Nano-based packaging materials are effective in both active and intelligent packaging applications. Even though nanoparticles are advantageous in developing food packaging film and coating, safety concerns are still key for their practical use in edible materials. This chapter discusses about the different types of nanomaterials in edible packaging and food preservation.
+Keywords: Food products; food technology; materials characterization; polymers; biological substances; food chemistry; edible packaging; nanomaterials; film and coating; biopolymers; food shelf-life
+
+Fenghong Li, Xiaojuan Song, Yu Chen, Lei He, Yingmei Wu, Qun Huang, Mingzheng Huang, Xin Li,
+Effect of barrier function of lemon essential oil-gelatin composite coating on flavor quality of kiwifruit during storage,
+Journal of Future Foods,
+2025,
+,
+ISSN 2772-5669,
+https://doi.org/10.1016/j.jfutfo.2025.08.009.
+(https://www.sciencedirect.com/science/article/pii/S2772566925002204)
+Abstract: Post-harvest kiwifruit exhibited a short edible period with high susceptibility to senescence and decay. To address this, gelatin and lemon-gelatin essential oil coatings were developed for preserving flavor quality during storage. The effects of different coatings on kiwifruit flavor quality were evaluated by examining physical properties, physiological changes, and volatile flavor and taste characteristics. Results indicated that coatings functioned as gas and water vapor barriers, effectively reducing kiwifruit respiration rate, maintaining water content, color, and hardness, while slowing losses of soluble solid, titratable acid, and ascorbic acid. Antioxidant capacity was preserved at elevated levels. Flavor analysis revealed that the coating's gas and microbial barrier properties better preserved kiwifruit flavor while inhibiting off-flavor compound formation. Correlation analysis indicated a strong positive relationship between respiration rate and key flavor compound content. Moreover, coated kiwifruit exhibited a taste comparable to fresh fruit. In conclusion, lemon essential oil-gelatin coatings demonstrated superior effectiveness in preserving overall flavor quality relative to pure gelatin coatings. The barrier functionality showed significant potential for maintaining postharvest flavor quality and extending shelf life.
+Keywords: Kiwifruit preservation; Edible coating; Barrier function; Flavor quality
+
+Haitao Jiang, Fan Wang, Rongrong Ma, Yaoqi Tian,
+Advances in gum Arabic utilization for sustainable applications as food packaging: Reinforcement strategies and applications in food preservation,
+Trends in Food Science & Technology,
+Volume 142,
+2023,
+104215,
+ISSN 0924-2244,
+https://doi.org/10.1016/j.tifs.2023.104215.
+(https://www.sciencedirect.com/science/article/pii/S0924224423003308)
+Abstract: Background
+The petrochemical plastic-based materials have been widely applied for food packaging. However, petrochemical plastic waste will result in large amounts of non-degradable pollutants that cause environmental challenges and health concerns. Therefore, the study on environment-friendly and biodegradable food packaging has garnered much attention. Gum Arabic (GA) presents great film-forming capacity, biocompatibility, and biodegradability, which support its applications for food packaging.
+Scope and approach
+The review addresses the main modification strategies for GA-based films to obtain improved physical properties (i.e., mechanical, barrier, and thermal properties) and functional properties (e.g., antioxidant, antimicrobial, and pH-responsive properties). Furthermore, the potential applications of GA-based films into food preservation were comprehensively reviewed.
+Key findings and conclusions
+Some strategies, including introducing nanomaterials, natural plant extracts, essential oils, and plant oils and blending with other biopolymers, were reported to be effective in improving the physical properties of GA-based films, represented by the strengthened mechanical, barrier, and thermal properties. Additionally, the introduction of bioactive ingredients was found to impart excellent antioxidant and antimicrobial properties on GA-based films. Besides, some natural pigments (e.g., anthocyanins) could be incorporated as colorimetric indicators to fabricate smart GA-based films that provide real-time information on food freshness. Importantly, GA-based films could be utilized for the preservation of various foods, predominantly including fruits, vegetables, meat, livestock, and aquatic products, edible oils, and nuts, and the functionalized GA-based films with antioxidant and antimicrobial capacities presented improved preservation effects.
+Keywords: Gum Arabic; Food preservation; Food packaging; Edible coating; Enhancement strategies; Active films
+
+Sara Norouzzadeh, Hamid-Reza Akhavan, Sepideh Khorasani, Reza Hajimohammadi-Farimani, Ghodsieh Alizadeh-Bahaabadi,
+Effect of cinnamaldehyde-loaded nanostructured lipid carriers in carboxymethyl cellulose-based coating on the shelf life of fresh pistachio,
+Scientia Horticulturae,
+Volume 350,
+2025,
+114299,
+ISSN 0304-4238,
+https://doi.org/10.1016/j.scienta.2025.114299.
+(https://www.sciencedirect.com/science/article/pii/S0304423825003486)
+Abstract: The effects of carboxymethyl cellulose (CMC) as edible coating (EC) containing free cinnamaldehyde (CA), CA-loaded nanostructured lipid carriers (NLC), and salicylic acid-loaded EC (ECSA) on the shelf life of fresh pistachios at 4 °C for 30 days were evaluated. Compared to control pistachios, coated samples exhibited up to 23 % reduced weight loss, a 50 % increase in total phenolic content (TPC), over 50 % reduction in microbial counts, and up to 44 % lower polyphenol oxidase (PPO) activity (p < 0.05). The TPC increased by approximately 20.9 % in the ECSA-CA treatment during storage. ECSA-CA treatment enhanced peroxidase (POD) and phenylalanine ammonia-lyase (PAL) activities by 90 % and 33 %, respectively, versus the control on day 30. The EC-NLC/CA treatment demonstrated the highest catalase (CAT) activity, ∼48.8 % greater than the control samples. SA enhances the defense system of treated fresh pistachios by increasing antioxidant enzyme activities, such as POD (51.6 %) and PAL (32.1 %), and elevating TPC (40.4 %) compared to the control, while simultaneously reducing microbial load and lipid oxidation in the hull. ECSA-CA-treated pistachios exhibited the lowest microbial growth during storage, with only a 0.6 log CFU/g increase in total aerobic mesophilic bacteria count (TBC) and a 0.52 log CFU/g increase in total fungal count (TFC), significantly lower than the control (p < 0.05). Overall, incorporating CA and SA into CMC coatings effectively extended the shelf life of fresh pistachios by minimizing spoilage, oxidation, and microbial contamination, making them a promising natural preservation strategy.
+Keywords: Pistachio; Edible packaging; Essential oil; Nanocarrier; Storage conditions
+
+Fatemeh Rezaei, Yasser Shahbazi,
+Shelf-life extension and quality attributes of sauced silver carp fillet: A comparison among direct addition, edible coating and biodegradable film,
+LWT,
+Volume 87,
+2018,
+Pages 122-133,
+ISSN 0023-6438,
+https://doi.org/10.1016/j.lwt.2017.08.068.
+(https://www.sciencedirect.com/science/article/pii/S0023643817306382)
+Abstract: Nowadays, antimicrobial packaging materials is attracting remarkable attention as one of the preferred emerging technologies to prevent the development and spread of spoilage and pathogenic microorganisms via food foodstuffs. The aim of the present study was to incorporate Ziziphora clinopodioides essential oil (ZEO; 0 and 0.5%), apple peel extract (APE; 0 and 1%) and zinc oxide nanoparticle (ZnO; 0 and 0.5%) into sauced silver carp fillet using three techniques including direct addition, edible coating and composite film based on sodium alginate-carboxymethylcellulose (SA-CMC) to increase the shelf life (microbial, chemical and sensory properties) and inhibit the growth of Listeria monocytogenes during refrigerated storage over a period of two weeks. The fillet coated with ZEO 0.5% + APE 1% + ZnO 0.5% significantly exhibited the lowest bacterial population for the entire of storage period (P < 0.05). All treated samples tended to retard the increases in total volatile base nitrogen, trimethyl-amine nitrogen, pH and peroxide value. ZEO 0.5% + APE 1% + ZnO 0.5% and ZEO 0.5% + APE 1% showed the best sensory attributes (odor, color and overall acceptability). It can be concluded that the SA-CMC coatings or films enriched with ZEO 0.5% + APE 1% + ZnO 0.5% and ZEO 0.5% + APE 1% can be used as appropriate active packaging materials to preserve sauced silver carp fillets.
+Keywords: Sauced silver carp; Sodium alginate; Carboxymethylcellulose; Coating; Film
+
+Swati Sumit Rout, Kalandi Charan Pradhan,
+A review on antimicrobial nano-based edible packaging: Sustainable applications and emerging trends in food industry,
+Food Control,
+Volume 163,
+2024,
+110470,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2024.110470.
+(https://www.sciencedirect.com/science/article/pii/S0956713524001877)
+Abstract: Antimicrobial nano-based edible packaging, which has become more popular and sustainable as compared to synthetic packaging systems, needs to be adopted by most of the food industries to reduce food spoilage. On the other hand, food security is one of the most unprecedented and challenging issues that has been witnessed by all countries with their growing population. Hence, the interplay between the role of nano-based edible packaging and reduction in food spoilage poses the concern of an environment-economic paradox. The application of nanotechnology in food packaging plays a significant role in delivering qualitative food products to consumers with prolonged shelf life. Nanotechnology brings new horizons to the food industry, expecting consumers’ demand for marginally refined, nutritious food products at a reasonable price. Major advantages of nanoparticle application in food packaging include physico-chemical properties, enhanced mechanical strength, and antimicrobial characteristics. This paper deals with the recent advancements in edible coating films using nanotechnology and their role in food packaging. Mainly, this review discusses the benefits and components of edible coating films. Additionally, we highlighted the antimicrobial activities and applications of various metal-based nanoparticles in the food industry. Furthermore, we focus on the synthesis of nanoparticles, their biopolymer matrices, applied food products, antimicrobial mechanisms, and target microorganisms. And we briefly summarise several types of advanced packaging strategies. Based on the extensive review of literature, we provide adequate knowledge on the advantages of edible coating films, along with the incorporation of nanoparticles and their synthesis. Moreover, this review revealed that the nanoparticles with antimicrobial properties exhibit biocidal activity against both gram-positive and gram-negative bacteria. Nevertheless, we find the toxicity, risk associated with nanoparticles, and consumer adaptability are not clearly explored in the existing literature; therefore, potential industrial policies should be formulated to re-evaluate.
+Keywords: Nanotechnology; Edible coating films (ECF); Organic nanoparticles; Inorganic nanoparticles; Antimicrobial activity; Food packaging
+
+Angela Arciello, Lucia Panzella, Eliana Dell’Olmo, Manar Abdalrazeq, Federica Moccia, Rosa Gaglione, Sarai Agustin-Salazar, Alessandra Napolitano, Loredana Mariniello, C. Valeria L. Giosafatto,
+Development and characterization of antimicrobial and antioxidant whey protein-based films functionalized with Pecan (Carya illinoinensis) nut shell extract,
+Food Packaging and Shelf Life,
+Volume 29,
+2021,
+100710,
+ISSN 2214-2894,
+https://doi.org/10.1016/j.fpsl.2021.100710.
+(https://www.sciencedirect.com/science/article/pii/S2214289421000788)
+Abstract: Aim of this study was the development of an active packaging based on whey proteins (WP) functionalized with Pecan nut shell extract (PNSE). To this purpose, aqueous solutions of WP, PNSE and glycerol were mixed and characterized, whereas corresponding films were prepared by casting. Zeta-potential measurement revealed that the film forming solutions were stable, and the particle size was reduced further to the incorporation of PNSE, as a result of tannins-WP interactions. Films were handleable and homogeneous, and PNSE was able to improve their mechanical and barrier properties. PNSE-containing films inhibited the growth of the foodborne bacteria Enterococcus faecalis and Salmonella enterica subsp. enterica ser. Typhimurium. Ferric reducing/antioxidant power assay clearly highlighted the ability of PNSE to impart antioxidant properties to the films. Finally, simulated digestion experiments showed a significant lowering of the proteolysis rate in the presence of PNSE, although 40 % of the protein was still digested after 60 min incubation. Overall, these results put the basis for a possible use of PNSE functionalized WP-based films as new environmentally friendly candidates for increasing the shelf-life of foods.
+Keywords: Active packaging; Whey protein films; Pecan nut shell extract; Antioxidant properties; Antimicrobial activity; Film technological properties
+
+Arif Rashid, Abdul Qayum, Qiufang Liang, Lixin Kang, John-Nelson Ekumah, Xu Han, Xiaofeng Ren, Haile Ma,
+Exploring the potential of pullulan-based films and coatings for effective food preservation: A comprehensive analysis of properties, activation strategies and applications,
+International Journal of Biological Macromolecules,
+Volume 260, Part 2,
+2024,
+129479,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2024.129479.
+(https://www.sciencedirect.com/science/article/pii/S0141813024002824)
+Abstract: Pullulan is naturally occurring polysaccharide exhibited potential applications for food preservation has gained increasing attention over the last half-century. Recent studies focused on efficient preservation and targeted inhibition using active composite ingredients and advanced technologies. This has led to the emergence of pullulan-based biofilm preservation. This review extensively studied the characteristics of pullulan-based films and coatings, including their mechanical strength, water vapor permeability, thermal stability, and potential as a microbial agent. Furthermore, the distinct characteristics of pullulan, production methods, and activation strategies, such as pullulan derivatization, various compounded ingredients (plant extracts, microorganisms, and animal additives), and other technologies (e.g., ultrasound), are thoroughly studied for the functional property enhancement of pullulan-based films and coatings, ensuring optimal preservation conditions for diverse food products. Additionally, we explore hypotheses that further illuminate pullulan's potential as an eco-friendly bioactive material for food packaging applications. In addition, this review evaluates various methods to improve the efficiency of the film-forming mechanism, such as improving the direct coating process, bioactive packaging films, and implementing layer-by-layer coatings. Finally, current analyses put forward suggestions for future advancement in pullulan-based bioactive films, with the aim of expanding their range of potential applications.
+Keywords: Pullulan; Active packaging; Biofilm preservation; Coatings; Layer-by-layer assembly
+
+Qiuqin Zhang, Wanyi Yang, Siqi Zhang, Jing Tang, Xuequn Shi, Shan Qin, Leiqing Pan, Hongmei Xiao,
+Enhancing the applicability of gelatin-carboxymethyl cellulose films by cold plasma modification for the preservation of fruits,
+LWT,
+Volume 178,
+2023,
+114612,
+ISSN 0023-6438,
+https://doi.org/10.1016/j.lwt.2023.114612.
+(https://www.sciencedirect.com/science/article/pii/S0023643823001913)
+Abstract: Cold plasma has been induced in polymer modification, but its influence on the properties of edible coatings in fruit preservation is unclear. In the present study, cold plasma was used to improve the practicability of Gelatin-carboxymethyl cellulose (GCMC). Cold plasma modification decreased the viscosity, cohesiveness, hardness, springiness and surface microroughness of GCMC to make it easy to implement during coating. The FTIR spectrum of cold-plasma-modified GCMC (CP-GCMC) film was like GCMC film with a shift towards lower wave numbers. However, CP-GCMC film exhibited higher water vapor permeability, but lower light transmittance and water solubility than GCMC film. Moreover, CP-GCMC film-coating showed good inhibition efficiency in decay rate, weight loss, respiration rate, fruit browning, and extended shelf lives of blueberry, apple and green walnut. These results indicated that cold plasma modification did not changed chemical structure, but improved the physical, microstructural and food preservation properties of GCMC films. Hence, cold plasma modification can be used as an effective technique to enhance the application and preservation potential of edible coatings.
+Keywords: Cold plasma modification; Fruit preservation; Edible coating; Gelatin; Carboxymethyl cellulose
+
+Maria G. Carneiro-da-Cunha, Miguel A. Cerqueira, Bartolomeu W.S. Souza, Marthyna P. Souza, José A. Teixeira, António A. Vicente,
+Physical properties of edible coatings and films made with a polysaccharide from Anacardium occidentale L.,
+Journal of Food Engineering,
+Volume 95, Issue 3,
+2009,
+Pages 379-385,
+ISSN 0260-8774,
+https://doi.org/10.1016/j.jfoodeng.2009.05.020.
+(https://www.sciencedirect.com/science/article/pii/S0260877409002672)
+Abstract: The effect of the concentrations of the polysaccharide from Anacardium occidentale L. (Policaju) and a surfactant (Tween 80) on relevant properties of edible coatings/films, in view of their application on apples (cv. Golden) was evaluated. The influence of the interactions between those two constituents on apples’ surface properties and on the coating/film’s wettability, water vapor permeability, opacity and mechanical properties was evaluated. The effects of the studied variables (polysaccharide and surfactant concentrations) were analyzed according to a 22 factorial design. Pareto bar charts were used to understand the most significant factors on the studied properties. The addition of surfactant reduced the cohesion forces, therefore reducing the surface tension and increasing the wettability; this resulted in an improved compatibility between the solution and the fruit skin surface. The opacity was also reduced. The results of each of the analyzed properties were adjusted to a polynomial, multifactor model, which provided a good fitting accuracy. This model is important once it will reduce the characterization work needed in subsequent applications of these coatings/films on foods.
+Keywords: Edible coatings; Edible films; Policaju; Surface properties; Physical properties
+
+Catherine Rébufa, Jacques Artaud, Yveline Le Dréau,
+Walnut (Juglans regia L.) oil chemical composition depending on variety, locality, extraction process and storage conditions: A comprehensive review,
+Journal of Food Composition and Analysis,
+Volume 110,
+2022,
+104534,
+ISSN 0889-1575,
+https://doi.org/10.1016/j.jfca.2022.104534.
+(https://www.sciencedirect.com/science/article/pii/S0889157522001521)
+Abstract: This review presents a comprehensive synthesis of walnut oil chemical composition data (major and minor compounds) collected from the literature according to the varieties and the geographic origins of walnuts, and to the oil extraction processes. Considered as influencing factors, pre- and post-harvest treatment parameters of in shell-walnut and kernels were identified and works on oil stability were discussed according to walnut pre-treatment, oil extraction processes and their storage conditions. Most studies dealt with the quantification of fatty acids and tocopherols. There has been less interest in the triacylglycerol composition and minor components (sterols, volatiles, phenolic compounds) of the oil. The volatile compound profiles were mainly determined to define the oxidative degree of oil and to better understand the effect of the fatty acid degradation on the organoleptic properties of oil. Unfortunately, sensory analyses were rarely performed. This review highlights a lack of knowledge on walnut sampling before oil analysis and a distortion between some results of chemical compounds. Impact of walnut variety, walnut storage and oil extraction process was documented but few studies have considered the temporal factor of harvest, the packaging and the storage conditions of oil, which influence its chemical composition and consequently its nutritional and taste qualities.
+Keywords: Juglans regia L.; Oil chemical composition; Geographical origin; Cultivars; Extraction processes; Stability and quality parameters
+
+Lifen Zhang, Fusheng Chen, Shaojuan Lai, Hongjuan Wang, Hongshun Yang,
+Impact of soybean protein isolate-chitosan edible coating on the softening of apricot fruit during storage,
+LWT,
+Volume 96,
+2018,
+Pages 604-611,
+ISSN 0023-6438,
+https://doi.org/10.1016/j.lwt.2018.06.011.
+(https://www.sciencedirect.com/science/article/pii/S002364381830522X)
+Abstract: A soybean protein isolate (SPI)-chitosan edible coating was used to prolong the shelf life of apricots stored at 2 °C. Apricots were coated with two different coating formulations (SPI and SPI combined with chitosan). The changes to several parameters including weight loss, firmness, titratable acidity, soluble solids content, pectin contents, and the nanostructural properties of pectin were investigated to evaluate the effectiveness of the coatings. The coatings, especially the SPI-chitosan coating, significantly decreased the weight loss of apricots. Meanwhile, this treatment prevented the decrease in firmness and benefited the textural properties of the tissue. The atomic force microscopy (AFM) results showed a greater Fq (the percent of pectin chains of particular width or length among all the chains observed by AFM) for the width and length of pectin molecules in the SPI-chitosan coated samples (width ≥ 61 nm; length ≥ 3 μm), which indicated that the SPI-chitosan coating could inhibit pectin degradation. The results showed that the SPI-chitosan coating is an effective method to preserve the quality of apricots.
+Keywords: Postharvest; Texture; Nanostructure; Atomic force microscopy; Pectin
+
+Sohyeon Park, Milae Lee, Sungwon Jung, Hyun Lee, Bumgyu Choi, Moonhyun Choi, Jeong Min Lee, Ki Hyun Yoo, Dongoh Han, Seung Tae Lee, Won-Gun Koh, Geul Bang, Heeyoun Hwang, Sangmin Lee, Jinkee Hong,
+Rice grains integrated with animal cells: A shortcut to a sustainable food system,
+Matter,
+Volume 7, Issue 3,
+2024,
+Pages 1292-1313,
+ISSN 2590-2385,
+https://doi.org/10.1016/j.matt.2024.01.015.
+(https://www.sciencedirect.com/science/article/pii/S259023852400016X)
+Abstract: Summary
+A strategy to develop a nutrient-rich hybrid food using rice grains functionalized with nanocoating and bovine cells for a sustainable food system is reported. Rice grains are safe food ingredients with a low incidence of allergy and have a nutritional profile and structure suited for 3D cell culture. An edible coating composed of fish gelatin and food enzymes offers a high affinity between rice grains and cells and improves the structural stability of grains for increased cell capacity. The potential of rice grains as cell scaffolds is demonstrated by investigating the interactions between the coating, grains, and cells. The rice grains are transformed into a hybrid food with animal nutrients by containing organized bovine cells. We discuss the food properties and production value of this rice-based meat to evaluate its potential as a sustainable food that guarantees safety from food crises and global warming.
+Keywords: rice grains; nanocoating; edible coating; myoblast; adipocyte; hybrid food; cultured meat; future food; sustainability
+
+D. Subhasri, Shubham Nimbkar, J.A. Moses, C. Anandharamakrishnan,
+Chapter 9 - Biobased edible food coatings for food applications,
+Editor(s): Shakeel Ahmed,  Annu,
+Advanced Applications of Biobased Materials,
+Elsevier,
+2023,
+Pages 263-302,
+ISBN 9780323916776,
+https://doi.org/10.1016/B978-0-323-91677-6.00011-8.
+(https://www.sciencedirect.com/science/article/pii/B9780323916776000118)
+Abstract: Packaging is one of the most consumer-driven sectors. Greater demand for better sustainable functional packaging and the need to reduce postharvest loss can be addressed using biobased edible coatings and films, which are produced from nontoxic biopolymers, biocomposites, and other renewable sources. They protect the packaged or coated product from external physical, chemical, and biological deterioration by various barrier functions. Edible biobased coatings have numerous applications in the production of minimally processed foods, with better enhanced quality and shelf life of fruits, vegetables, meat, bakery, and other food products. Apart from these applications, there is an increasing trend to incorporate antioxidants, vitamins, antimicrobial agents, nutraceuticals, and active compounds into edible coatings, providing a better platform to act as carriers of active substances, enable targeted release, and also function as quality and safety enhancers. In this chapter, different sources, methods of formation of biobased edible coatings, and the chemistry behind the properties of barrier and quality enhancement functions, along with a listing of various applications of edible coatings used in the food industry are discussed. Furthermore, characterization, consumer acceptance, commercial feasibility, and recently available products have been discussed, along with emphasizing the need to validate edible coatings. Better packaging results can be obtained when these key factors are taken into consideration.
+Keywords: Edible coating; Food applications; Barrier function; Films; Biodegradable
+
+Johana Lopez-Polo, Andrea Silva-Weiss, Marcela Zamorano, Fernando A. Osorio,
+Humectability and physical properties of hydroxypropyl methylcellulose coatings with liposome-cellulose nanofibers: Food application,
+Carbohydrate Polymers,
+Volume 231,
+2020,
+115702,
+ISSN 0144-8617,
+https://doi.org/10.1016/j.carbpol.2019.115702.
+(https://www.sciencedirect.com/science/article/pii/S0144861719313700)
+Abstract: The objective of this study was to investigate the physical, rheological and humectability properties of edible coating forming suspensions (ECS) based on hydroxypropyl methylcellulose (HPMC) containing: liposomes that encapsulate rutin, glycerol and cellulose nanofibers on sliced surfaces of almonds and chocolate. On average, liposomes measured between 110.6 ± 10.0 nm and were characterized as stable and homogeneous suspensions. Adding these liposomes to the edible coatings produced significant changes (p< 0.05) in the density and surface tension, which favor the final appearance of the coating. The presence of liposomes increased the apparent viscosity of the ECS, showing a purely viscous and fluid behavior with a good fit (R2 = 0.9996) with the Power Law model. The presence of liposomes and cellulose nanofibers decreased the value of the cohesive energy of the ECS. The studied ECS partially hydrate the surfaces of almond and chocolate as they showed contact angles under 90°.
+Keywords: Edible coating; Biodegradable polymer; Liposomes; Cellulose nanofibers; Humectability
+
+Vishnupriya Subramaniyan, D. Priscilla Mercy Anitha, Periyar Selvam Sellamuthu, Sadiku Emmanuel Rotimi,
+Probiotic incorporation into edible packaging: A recent trend in food packaging,
+Biocatalysis and Agricultural Biotechnology,
+Volume 51,
+2023,
+102803,
+ISSN 1878-8181,
+https://doi.org/10.1016/j.bcab.2023.102803.
+(https://www.sciencedirect.com/science/article/pii/S1878818123002049)
+Abstract: The consumption of probiotics has been linked with many health benefits; hence, the intake of probiotics is increasing among the world population. Probiotics are referred to as beneficial microbes and the incorporation of probiotics in food products improves the immune function, cognitive response and overall well-being of consumers. Additionally, probiotics are begin suggested as an efficient and environmentally friendly replacement for chemical-based preservative compounds. This trend has gained considerable interest among the food industries and scientists to develop novel probiotic-containing food products. In this regard, edible packaging technologies are being investigated as carriers of probiotic organisms with a wide range of applications. The edible food packaging method is a promising way to develop safe food products in terms of both customer and environmentally friendly. Edible packaging technology commonly utilizes sustainable and biodegradable components which are applied as an edible coating or wrapping over the food products. Edible packaging has been used in recent years to extend the shelf life and improve the nutritional value of foods. The incorporation of probiotics into edible packaging will develop novel and functional foods, help decrease pathogenic microorganisms in food products, and provide many health benefits to humans, similar to the direct intake of probiotics. This current review aims to focus on the general view of edible packaging, probiotics as a carrier in edible films and coatings, the material used for edible packaging, and efficient delivery of probiotic organisms by microencapsulation and it discusses the particular limitations of probiotic utilization and current legislation.
+Keywords: Food preservation; Bio-polymer; Edible coating; Edible film; Microencapsulation; Shelf life
+
+Maryam Saeedi, Seyed Hossein Mirdehghan, Mahmoud Koushesh Saba, Fatemeh Nazoori,
+Strategies to preserve quality and improve storage life of fresh in-hull pistachio: a review,
+Postharvest Biology and Technology,
+Volume 230,
+2025,
+113751,
+ISSN 0925-5214,
+https://doi.org/10.1016/j.postharvbio.2025.113751.
+(https://www.sciencedirect.com/science/article/pii/S0925521425003631)
+Abstract: Pistachio is among the most commonly consumed nuts worldwide and is a good source of useful compounds imperative for human health. However, fresh in-hull pistachio, which have received increasing demand for consumption recently, possess limited storability and shelf life due to its perishable nature. Hull rapture, high respiration rate, and biochemical and physiological changes, such as weight loss, browning, and microbial contamination, are the main factors decreasing its postharvest life. To ensure the successful marketing of fresh in-hull pistachio by mitigating detrimental postharvest changes, various strategies have been employed. These include pre- and postharvest treatments such as polyamines and chemical applications, modified atmosphere packaging, cold storage, edible coating, and innovative technologies. Among these methods, modified atmosphere packaging combined with storage at 2 ± 1 °C best preserves the quality and storability of the fruit.
+Keywords: Browning; Hull rapture; Microbial contamination; Respiration rate
+
+Prafull Chavan, Kiran Lata, Tanbeer Kaur, Anet Rezek Jambrak, Somesh Sharma, Swarup Roy, Archana Sinhmar, Rahul Thory, Gurvendra Pal Singh, Krishna Aayush, Abhisek Rout,
+Recent advances in the preservation of postharvest fruits using edible films and coatings: A comprehensive review,
+Food Chemistry,
+Volume 418,
+2023,
+135916,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2023.135916.
+(https://www.sciencedirect.com/science/article/pii/S0308814623005332)
+Abstract: In recent years, there has been considerable growth in the creation of edible films and coatings, which is predicted to have a major impact on fruit quality in the coming years. Consumers want fresh fruits that are pesticide-free, good quality, high nutritional value, and a long shelf life. The use of edible coatings and films on fruits is an environmentally dependable approach to a creative solution to this problem. The application, recent trends, and views of coatings and edible films, as well as their impact on fruit quality, are presented in this article, along with a knowledge of their key roles and benefits. According to numerous studies, natural polymers are highly suited for use as packaging material for fresh fruits and can often be a viable alternative to synthetic chemicals. Plasticisers, surfactants, cross-linkers, antimicrobial agents, functional additives, nanoparticles, and fruit and vegetable residues can be used to alter the properties of edible coatings.
+Keywords: Edible films and coatings; Postharvest fruits; Weight loss; Total soluble solid; Shelf life
+
+Mahesh Mohan Shinde, Mohit Malik, Kujinder Kaur, Vijay Kumar Gahlawat, Nishant Kumar, Poojal Chiraang, Ashutosh Upadhyay,
+Formulization and characterization of guar gum and almond gum based composite coating and their application for shelf-life extension of okra (Hibiscus esculentus),
+International Journal of Biological Macromolecules,
+Volume 262, Part 1,
+2024,
+129630,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2024.129630.
+(https://www.sciencedirect.com/science/article/pii/S0141813024004331)
+Abstract: The current novel study aims was to development and characterization of gum based (guar gum: almond gum) composite formulations with or without addition of oregano essential oils to extend the shelf life of okra at ambient condition. In this study, the optimized composite of guar gum: almond gum (75:25 V/V) prepared with addition of different concentrations (0.05, 0.1 and 0.15 % (V/V) of oregano essential oils to study their physicochemical, rheological, antimicrobial and particle size & zeta potential distribution. In addition, the effects of prepared edible coatings on shelf-life of okra vegetables were also investigated by assessing their postharvest quality attributes at ambient (23 °C) storage up to 7 days storage. The results revealed, increasing concentration of essential oils in composite coating significantly increased in pH, TSS, particle size, antimicrobial (Apergillus. niger, Escherichia coli, Staphylococcus aureus) activity respectively. Furthermore, the increasing EOs improved viscosity (n) and stability of the coatings matrix. In addition, the applications of guar gum (0.25 %): almond gum (0.5 %) composite ratio (75,25) with oregano essential oils exhibited excellent properties and potential to maintain the postharvest characteristics of okra throughout the storage period. The results of this study revealed that the addition of higher concentration (0.15 %) of essential oils in composite formulation of 75 % guar gum +25 % almond gum (03) showed higher value of pH (5.45), antioxidant activity (20.87 %), particle size (899.1 nm), zeta potential (−8.6 mV), polydispersity index (50.6 %) and higher antimicrobial activity against E.coli (19 mm), S. aureus (29 mm) and A. niger (35 mm) as compared to other formulations. Therefore, the lower composite formulation (01) with lower concentration (0.05 %) of oregano essential oil was found most effective formulation to maintain the shelf life of okra for up to 4 days as compared to other treated and control okra samples at ambient temperature by retarded the weight loss (12.74 %), maintained higher firmness (0.998 N), lower respiration rate (484.32 ml Co2/kg/h) respectively on 7 days of storage. The microbial load in the okra samples treated with different guar gum: almond gum composite showed lower microbial load in terms of total plate count and yeast & mold counts as compared to control samples. Samples treated with O3 coating showed lowest TPC (0.1 × 108 cfu/g) and YMC (6.63 × 106 cfu/g) followed by O2 (0.48 × 108 cfu/g, 7.9 × 106 cfu/g) and O1 (0.78 × 108 cfu/g, 9.45 × 106 cfu/g) respectively on 6rd day of storage, overall results indicated that the application of composite coating with different concentrations of oregano essential oils were effective to maintained postharvest shelf life of okra up to 4 days at ambient condition.
+Keywords: Composite edible coating; Particle size; Zeta potential; Rheology; Postharvest characteristics; Antioxidant activity; Antimicrobial activity
+
+Hyun Jin Park,
+Development of advanced edible coatings for fruits,
+Trends in Food Science & Technology,
+Volume 10, Issue 8,
+1999,
+Pages 254-260,
+ISSN 0924-2244,
+https://doi.org/10.1016/S0924-2244(00)00003-0.
+(https://www.sciencedirect.com/science/article/pii/S0924224400000030)
+Abstract: Edible coatings can provide an additional protective coating for fresh products and can also give the same effect as modified atmosphere storage in modifying internal gas composition. Recently, several edible coatings for preserving fruits such as oranges, apples, and grapefruits were successfully applied. But, in some cases, edible coatings were not successful. In fact, fruit quality was worse. The success of edible coatings for fresh products totally depends on the control of internal gas composition. This article is designed to help develop a systematic means of selecting edible coatings to maximize quality and shelf life of fresh fruits and vegetables. Methods will be introduced to select edible coatings based on their gas permeation properties relative to controlling internal gas composition of target products.
+
+L. Atarés, R. Pérez-Masiá, A. Chiralt,
+The role of some antioxidants in the HPMC film properties and lipid protection in coated toasted almonds,
+Journal of Food Engineering,
+Volume 104, Issue 4,
+2011,
+Pages 649-656,
+ISSN 0260-8774,
+https://doi.org/10.1016/j.jfoodeng.2011.02.005.
+(https://www.sciencedirect.com/science/article/pii/S0260877411000586)
+Abstract: Hydroxypropylmethylcellulose based edible films with and without antioxidant additives were characterised as to their microstructure, water vapour and oxygen permeability, mechanical behaviour, optical properties and protective ability against lipid oxidation. The corresponding film-forming dispersions were also used to coat toasted almonds in order to test their effectiveness at protecting against rancidity development. The efficiency of three additives (ascorbic acid, citric acid or ginger essential oil) was tested and compared with antioxidant-free coatings. A cross-linking effect in the film matrices containing ascorbic or citric acid was detected through the analysis of the film microstructure, mechanical behaviour and barrier properties to oxygen and water vapour. These films were the most effective protectors against oxidation of almonds, due to both their antioxidant effect and the tighter structure which leads to lower oxygen permeability. In films with ginger oil, the hydrophobic effect markedly reduced water vapour permeability at low temperatures, but protection against lipid oxidation was less effective at long storage times.
+Keywords: Edible coatings; Hydroxypropylmethylcellulose; Ascorbic acid; Citric acid; Ginger oil; Almond
+
+Bilal Hassan, Shahzad Ali Shahid Chatha, Abdullah Ijaz Hussain, Khalid Mahmood Zia, Naseem Akhtar,
+Recent advances on polysaccharides, lipids and protein based edible films and coatings: A review,
+International Journal of Biological Macromolecules,
+Volume 109,
+2018,
+Pages 1095-1107,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2017.11.097.
+(https://www.sciencedirect.com/science/article/pii/S0141813017330520)
+Abstract: Food is a vital product for the survival of human beings and with passage of time quality concerns of consumers are rising. Edible films and coatings are thin layers applied on food products to protect them and improve their quality. Films/coatings are prepared from naturally occurring renewable sources (polysaccharides, proteins, lipids and composites) which we can eat without disposing them. These films are environment friendly and contain antioxidants, anti-browning agents and colorants. Various methods (spraying, brushing, electro-spraying) are used to apply a coating on food material to protect them from microbial growth, prolonging their shelf life and improving other quality aspects like sensory attributes, appearance, originality and freshness of ingredients. In addition to edible films, some special additives like glycerol, sorbitol etc. is used to improve the efficiency of edible films and coatings. Chemistry and nature of these films and coatings vary in the vast range of hydrophilic and hydrophobic boundaries to cover the whole range of food products. In recent times, herbal coatings are widely used for the coating purposes e.g. Aloe Vera, citral and eugenol essential oils. However, some challenges presented are focusing the scientific attention for viable solution.
+Keywords: Edible coating; Mechanism; Chemistry; Demand of food; Nutritional value
+
+M. Morales-de la Peña, R. Raybaudi-Massilia, J. Mosqueda-Melgar, R. Soliva-Fortuny, O. Martín-Belloso,
+Chapter 57 - Recent Trends in Antimicrobial Edible Films and Coatings,
+Editor(s): Jorge Barros-Velázquez,
+Antimicrobial Food Packaging (Second Edition),
+Academic Press,
+2025,
+Pages 903-915,
+ISBN 9780323907477,
+https://doi.org/10.1016/B978-0-323-90747-7.00058-2.
+(https://www.sciencedirect.com/science/article/pii/B9780323907477000582)
+Abstract: Modern populations’ demand for healthy, fresh, convenient, and safe foods with extended shelf life had boosted industrial and research efforts to develop new strategies for food processing. In addition, the use of environmentally friendly packaging materials is another important aspect considered by conscious consumers. In such a sense, coatings and films made from edible and biodegradable materials are novel systems that can be used as individual packaging for food, protecting them from the surrounding environment and/or acting as carriers of active ingredients. Different antimicrobial agents have been incorporated into edible coatings and films to extend the shelf life and ensure the safety of different foods by not only inactivating pathogens but deteriorative microorganisms. This chapter reviews the main antimicrobial compounds commonly used in edible coatings and films, the target microorganisms for the assessment of their antimicrobial activity, as well as an update of industrial applications and current limitations imposed by the existing regulations.
+Keywords: Antimicrobial; edible; films; coatings; packaging; microorganisms
+
+Ke Ma, Jun Yang, Gulden Goksen, Abdulhakeem S. Alamri, Majid Alhomrani, Guanghua Xia, Wanli Zhang,
+Application of tragacanth gum as a potential food packaging film and its performance enhancement strategy,
+Food Hydrocolloids,
+Volume 162,
+2025,
+110894,
+ISSN 0268-005X,
+https://doi.org/10.1016/j.foodhyd.2024.110894.
+(https://www.sciencedirect.com/science/article/pii/S0268005X24011688)
+Abstract: Currently, the widespread use of petroleum-based plastic food packaging materials and their non-degradable nature have significantly contributed to environmental issues. As a result, biopolymer-based food packaging materials are emerging as promising sustainable alternatives. Among the many biopolymers, tragacanth gum (TG) is being explored for the production of biodegradable food packaging films. As a hydrophilic colloidal polysaccharide, TG-based food packaging films possess renewable and edible properties, making them suitable for preparing food packaging films and edible coatings. This work briefly reviews the chemical properties and recent progress in the industrial applications of tragacanth gum. The research progress on different composite films based on tragacanth gum, including polymer blending, plant extract functionalization, and nanomaterial functionalization, is highlighted. Finally, the practical applications of tragacanth gum-based composite films and edible coatings in food preservation are summarized.
+Keywords: Tragacanth gum; Composite film; Film properties; Active packaging; Edible coating
+
+Ryszard Amarowicz, Ronald B. Pegg,
+Chapter One - Natural antioxidants of plant origin,
+Editor(s): Isabel C.F.R. Ferreira, Lillian Barros,
+Advances in Food and Nutrition Research,
+Academic Press,
+Volume 90,
+2019,
+Pages 1-81,
+ISSN 1043-4526,
+ISBN 9780128165676,
+https://doi.org/10.1016/bs.afnr.2019.02.011.
+(https://www.sciencedirect.com/science/article/pii/S1043452619300269)
+Abstract: Interest in the content of natural antioxidants in plant-based foods can be from the human health perspective, in terms of how these compounds might help promote one's health and wellness, or from the storage point-of-view, as the endogenous antioxidant constituents aid to extend a foodstuff's shelf-life. This chapter reports essential information about the mechanism of antioxidant action and methods employed for determination of their activity, classes of phenolic compounds (phenolic acids, flavonoids, lignans, stilbenes, tannins), sources of plant antioxidants (oil seeds, cereals, legumes, plants of the Lamiaceae family, tea and coffee, tree nuts, fruits, and berries), extraction strategies of phenolic compounds from plant material, and the influence of processing and storage on the content of natural antioxidants in foods and their antioxidant activity. Thermal processing, if not releasing bound phenolics from the structural matrices of the food, tends to decrease the antioxidant potential or, in the best case scenario, has no significant negative impact. Gentler sterilization processes such as high-pressure processing tend to better retain the antioxidant potential of a foodstuff than thermal treatments such as steaming, boiling, or frying. The impact of processing can be assessed by determining the antioxidant potential of foodstuffs either at the point of formulation or after different periods of storage under specified conditions.
+Keywords: Phenolic compounds; Natural antioxidants; Antioxidant assays; Extraction; Processing
+
+Wenwen Li, Yu Qin, Beibei Zhang, Wenwen Zhang, Dengjie Yao, Chunyin Zeng, Delu Ning, Yongliang Zhuang, Lirong Li, Rui Huang,
+Effect of different zein/tea polyphenol/apple pectin coating on nutritional, physicochemical properties of fresh walnut kernel preservation,
+Food Chemistry,
+Volume 475,
+2025,
+143230,
+ISSN 0308-8146,
+https://doi.org/10.1016/j.foodchem.2025.143230.
+(https://www.sciencedirect.com/science/article/pii/S0308814625004819)
+Abstract: In this study, zein/apple pectin/tea polyphenol layer-by-layer assembled cling film prepared by solution casting was characterized, and the preservation effect of composite coatings, double, triple, and quadruple multilayer layer-by-layer assembly coatings on fresh walnut kernels at 4 °C was evaluated. As the number of assembly layers increased, the water vapor barrier increased, and the lower the film's UV transmittance. The assembled film's antioxidant and antibacterial activities were significantly higher than composite film. The moisture, color, and texture of the fresh walnut kernels treated with the assembled coatings were less different from 0 d fresh walnut kernels after 40 d of storage at 4 °C. The acid value, peroxide value, and total number of bacterial colonies of the fresh walnut kernels with 4-layer assembled coatings were significantly lower than those of the composite coatings. Overall, zein/apple pectin/tea polyphenol layer-by-layer assembled coating is an effective way to the fresh walnut kernel preservation.
+Keywords: Zein; Tea polyphenol; Apple pectin; Layer-by-layer assembly; Preservation
+
+Chamran Moradi, Ebrahim Hosseini, Esmat Rousta,
+Bitter almond gum-fish gelatin conjugate coatings extend the storage of button mushrooms,
+Postharvest Biology and Technology,
+Volume 222,
+2025,
+113356,
+ISSN 0925-5214,
+https://doi.org/10.1016/j.postharvbio.2024.113356.
+(https://www.sciencedirect.com/science/article/pii/S092552142400601X)
+Abstract: Button mushrooms (Agaricus bisporus) have a short shelf-life due to high moisture content and lack of a protective layer, leading to browning and softening. This study aimed to investigate the effects of spraying different concentrations (1 %, 2 %, and 3 % w/v) of bitter almond gum: fish gelatin conjugate coating on the quality of fresh mushrooms during 20 d of cold storage. The results showed that the spray-coated samples maintained better quality parameters than uncoated samples during storage. SEM micrographs confirmed formation coating on the surface of mushrooms and improvement in the microstructure. Mushrooms treated with 2 % conjugate showed considerable improvement in firmness retention, reduced browning, and sensory indices. At the same time, mushrooms coated with 3 % conjugate effectively retained phenolic content, DPPH radical scavenging, and enzyme activities. Lower microbial counts were observed in proportion to coating concentrations. The principal component and hierarchical cluster analyses were conducted to illustrate the effects of variable and conjugate concentration on extending the shelf-life of mushrooms and categorize the samples based on their performance. This study suggests that using conjugate coating can be a practical solution for prolonging the shelf life of button mushrooms and may also be beneficial for improving the post-harvest quality of other fruits and vegetables.
+Keywords: Agaricus bisporus; Edible coating; Maillard conjugation; Postharvest quality; Principal component analysis
+
+Hadar Arnon-Rips, Elena Poverenov,
+10 - Biopolymers-embedded nanoemulsions and other nanotechnological approaches for safety, quality, and storability enhancement of food products: active edible coatings and films,
+Editor(s): Alexandru Mihai Grumezescu,
+In Nanotechnology in the Agri-Food Industry,
+Emulsions,
+Academic Press,
+2016,
+Pages 329-363,
+ISBN 9780128043066,
+https://doi.org/10.1016/B978-0-12-804306-6.00010-6.
+(https://www.sciencedirect.com/science/article/pii/B9780128043066000106)
+Abstract: Edible films and coatings based on natural ingredients attract much interest today as an efficient, safe, and ecologic approach for food products’ quality and shelf-life enhancement. Edible films and coatings protect food from mechanical and microbial damage, reduce moisture and volatiles escape, inhibit biochemical deterioration processes and improve food appearance, as well as enhance the products’ nutritional value. Advanced edible films and coatings can also serve as a matrix for the delivery of active agents such as natural antimicrobials, nutraceuticals, antibrowning agents, and natural flavor and aroma compounds. For this purpose nanotechnology-based approaches can be exploited. This chapter provides a brief general description of active edible films and coatings, which includes a discussion of the raw materials that are used to form them, their physical and mechanical properties and their applications on various food products. The utilization of different nanotechnology methods such as nanoemulsions, nanoparticles, nanocellulose crystals and fibers, and layer-by-layer techniques for the formation of active edible films and coatings are reviewed with referred literature examples. This chapter does not cover active food packages that are based on inedible materials.
+Keywords: edible films; edible coatings; nanotechnology; layer-by-layer; nanoemulsions; nanoparticles; nanofibers; food quality; shelf life
+
+Sumia Rahman Sweet, B. M. Khaled, Md Abdullah Al Naeem, Md. Suman Rana, Adda Ann Sina, Asif Shahriar, Tamanna Naznin Shetu, Md. Momin Khan, Md. Entaduzzaman Jony, Mushfikur Rahman, Md. Mozaffor Hossain, Mahamudul Hasan,
+Sustainable shelf-life extension of Musa acuminata using starch-based coatings infused with pomelo peel essential oil,
+Applied Food Research,
+Volume 5, Issue 2,
+2025,
+101231,
+ISSN 2772-5022,
+https://doi.org/10.1016/j.afres.2025.101231.
+(https://www.sciencedirect.com/science/article/pii/S2772502225005360)
+Abstract: An edible coating made from corn starch and pomelo peel essential oil was developed to modulate the postharvest physiological processes of Musa acuminata, extending its ripening period. The efficacy of the coating was evaluated based on alterations in the physicochemical characteristics of bananas, including weight loss, visual color, firmness, titratable acidity, total soluble solids, ascorbic acid, pH, and total plate count. The findings indicated that the coating effectively lowered the weight loss (15.65%) and microbial load (10% spoilage) for T-III (5 % essential oil), the most effective treatment. The expected lifespan of coated fruit was prolonged by 12 days in comparison to the untreated control, which ripened in seven days and became unmarketable after Day 6. The physicochemical properties of bananas held at refrigerated temperatures were superior to those stored at room temperature. This study illustrated the efficacy of a starch-based edible covering infused with pomelo peel essential oil formulation in enhancing the preservation capacity of banana fruit under ambient and refrigerated conditions, offering a promising solution for tropical fruit preservation.
+Keywords: Sustainable; Shelf life; Musa acuminata; Coatings; Pomelo peel; Essential oil
+
+Stephanie Reis Ribeiro, Ingrid Duarte dos Santos, Bruna Klein, Flavio Roberto Thewes, Mariana Basso Pinton, Paulo Cezar Bastianello Campagnol, Auri Brackmann, Vanderlei Both, Roger Wagner,
+Higher CO2 during controlled atmosphere storage of unshelled ‘Barton’ pecans or carnauba wax coating: Effect on the quality after long-term storage at two temperatures,
+Food Research International,
+Volume 169,
+2023,
+112854,
+ISSN 0963-9969,
+https://doi.org/10.1016/j.foodres.2023.112854.
+(https://www.sciencedirect.com/science/article/pii/S096399692300399X)
+Abstract: Pecan nuts, a healthy food, have shown an increased demand for consumption. Therefore, there must be a certain level of care to avoid quality losses, which are primarily influenced by storage conditions and time. This study evaluates the effects of long-term controlled atmosphere (CA) storage with low O2 partial pressure (pO2 − 2 kPa), combined or not with high CO2 (pCO2 − 40 or 80 kPa), carnauba wax coating (CW), and ambient atmosphere (AMB; control) at 10 and 20 °C, on unshelled ‘Barton’ pecan nut quality. Color, water activity (Aw), moisture content (MC), and oxidation markers, such as peroxide value (PV), acidity value (AV), TBARS, and volatile compounds (VC) were evaluated. Storage up to twelve months at 10 °C and with CA (regardless of the temperature) ensured higher luminosity and color parameter b* (“golden”) and a lower a* parameter (“reddish”). The MC ranged from 2.8 to 3.6%, irrespective of storage conditions, for up to twelve months, which is suitable. The AMB at 10 °C ensured lower AV, TBARS, and PV compared to the CW treatment. Furthermore, CA with low pO2 and high pCO2, even at 20 °C, guaranteed lower AV, TBARS, and PV. Storage at 20 °C increased characteristic VCs of lipid oxidation (aldehydes, acids, alcohols, ketones, lactones, and esters, especially with CW coating). However, all conditions at 10 °C and with pCO2 (even associated at 20 °C) reduced the presence of these VCs. The CW used as a coating on the pecans did not show satisfactory results and should not be recommended for pecan storage at these applied conditions. Our findings showed that low pO2 and high pCO2 maintain better pecan quality than O2 ambient (20 kPa), even at temperatures above refrigeration (20 °C). Nevertheless, there were no significant differences between 40 and 80 kPa CO2.
+Keywords: Carya illinoinensis (Wangenh) K. Koch; Oxidation; Carbon dioxide; Nut storage; Volatile compounds
+
+Monisha Devi, M.J. Gidado,
+Sustainable valorisation of postharvest waste for disease control and quality preservation in fruits and vegetables,
+Waste Management,
+Volume 210,
+2026,
+115253,
+ISSN 0956-053X,
+https://doi.org/10.1016/j.wasman.2025.115253.
+(https://www.sciencedirect.com/science/article/pii/S0956053X25006646)
+Abstract: Postharvest losses in horticultural crops remain a major global challenge, primarily caused by microbial spoilage, physiological deterioration, and mechanical injury during handling, transport, and storage. Simultaneously, the agri-food industry generates vast quantities of postharvest residues, including peels, seeds, pomace, and trimmings that are frequently discarded despite their richness in bioactive phytochemicals, structural polysaccharides, and functional nutrients. The sustainable valorisation of these residues presents a dual opportunity: reducing waste while supplying renewable resources for postharvest preservation. This review provides a critical synthesis of recent advances in the conversion of postharvest waste into functional compounds and materials for disease control and quality maintenance in fruits and vegetables. It examines green extraction and bioprocessing techniques for recovering bioactives, their formulation into edible coatings, films, and biodegradable packaging, and the use of microbial fermentation for generating biocontrol agents and natural preservatives. Particular attention is given to the industrial scalability, techno-economic feasibility, and regulatory considerations of these approaches. Distinct from previous general reviews, this work integrates waste valorisation with postharvest quality management, highlighting circular-economy strategies capable of reducing chemical preservative dependence, enhancing product safety, and supporting sustainable food system transitions.
+Keywords: Postharvest waste; Waste management; Bioactive compounds; Quality preservation; Postharvest disease; Horticultural crops
+
+Kharla Andreina Segovia Bravo, Cristina Campanero Pintado, Alicia González Blanco, Efrén Pérez-Santín,
+Comparative risk assessment of edible-coated orange processing: 4x4 qualitative risk matrix vs FMEA approaches,
+Food Control,
+Volume 183,
+2026,
+111925,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2025.111925.
+(https://www.sciencedirect.com/science/article/pii/S0956713525007947)
+Abstract: This study presents a comparative analysis of two risk assessment methodologies applied to the processing of whole oranges with edible coatings, a novel approach aimed at extending shelf life and enhancing food safety. The research addresses a critical gap in food safety management, where the selection of risk matrices for hazard evaluation often lacks standardized guidance, leading to variability and subjectivity in decision-making. Using a case study from a mid-sized agro-industrial company in Spain, hazards were systematically identified across processing stages, including physical, chemical, and microbiological risks. Two assessment tools were applied: a 4 × 4 qualitative risk matrix based on probability and severity, and the Failure Mode and Effects Analysis (FMEA) method, which integrates severity, likelihood of occurrence, and likelihood of detection. Results from both approaches identified the same significant hazards and determined equivalent Critical Control Points (CCPs) and stricter Prerequisite Programs (PRPs), including key stages such as fungicide treatment, disinfection, rinsing, sorting, and coating preparation. However, the FMEA method provided additional insights into the detection capability of existing control measures, offering a more comprehensive framework for Hazard Analysis and Critical Control Points (HACCP) validation. These findings demonstrate that both tools are suitable for assessing risks in edible-coated orange processing, but the FMEA method is recommended for its enhanced ability to evaluate the effectiveness of detection systems. The study contributes to harmonizing risk assessment practices and supports the fruit industry in implementing robust, evidence-based food safety strategies.
+Keywords: Food safety; Risk assessment; HACCP; FMEA; Edible coatings; Oranges
+
+Hye-Jin Kang, Sung-Jin Kim, Young-Sun You, Monique Lacroix, Jaejoon Han,
+Inhibitory effect of soy protein coating formulations on walnut (Juglans regia L.) kernels against lipid oxidation,
+LWT - Food Science and Technology,
+Volume 51, Issue 1,
+2013,
+Pages 393-396,
+ISSN 0023-6438,
+https://doi.org/10.1016/j.lwt.2012.10.019.
+(https://www.sciencedirect.com/science/article/pii/S0023643812004434)
+Abstract: The aim of this study was to improve the fat stability in walnut (Juglans regia L.) kernels using an edible coating treatment. Coating solutions were composed of soy protein isolate (SPI), carboxymethylcellulose (CMC) and catechin (CT). Walnuts were dipped in coating solution, dried and stored under abuse temperature condition (35 °C) for 21 days. Lipid oxidation was evaluated by peroxide and thiobarbituric acid reactive substance (TBARS) measurements. Results showed a slight decrease in peroxide values (POV) and a significant reduction of TBARS by coating treatment. The SPI–CT and SPI/CMC–CT coatings were the most effective and decreased the POV by 27 and 31%, respectively, as compared to uncoated walnut after 21 days. The SPI–CT and SPI/CMC–CT coatings also decreased the TBARS value by 16 and 26%, respectively. The incorporation of CT in SPI-based coatings resulted in a synergistic effect on the lipid oxidation preservation. The results of this study show that soy protein-based coating could be a good carrier for antioxidant molecules, and an effective preservative method for extending shelf life and improving the quality stability of oxidation-sensitive kernels.
+Keywords: Soy protein; Edible coating; Walnut; Lipid oxidation; Antioxidant
+
+Xueqin Gao, Hamidreza Pourramezan, Yousef Ramezan, Swarup Roy, Wanli Zhang, Elham Assadpour, Jian Zou, Seid Mahdi Jafari,
+Application of gums as techno-functional hydrocolloids in meat processing and preservation: A review,
+International Journal of Biological Macromolecules,
+Volume 268, Part 1,
+2024,
+131614,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2024.131614.
+(https://www.sciencedirect.com/science/article/pii/S014181302402419X)
+Abstract: The global consumption of meat products is on the rise, leading to concerns about sustainability, fat content, and shelf life. Synthetic additives and preservatives used to extend the shelf life of meat often have negative health and environmental implications. Natural polysaccharides such as seed gums possess unique techno-functional properties, including water holding capacity, emulsifying, and film forming, offering potential alternatives in meat processing and preservation. This study explores the use of gums in meat and meat product processing and preservation. The water holding and emulsifying properties of gums can potentially bind fat and reduce overall lipid content, while their antimicrobial and film-forming properties can inhibit the microbial growth and reduce oxidation, thereby extending the shelf life. Incorporating gums as a fat replacer and edible coating shows promise for reducing fat content and extending the shelf life of meat and meat products.
+Keywords: Biopolymers; Meat preservation; Edible coating
+
+Yi Wu, Curtis L Weller, Fayrene Hamouz, Susan L Cuppett, Marilynn Schnepf,
+Development and application of multicomponent edible coatings and films: A review,
+Advances in Food and Nutrition Research,
+Academic Press,
+Volume 44,
+2002,
+Pages 347-394,
+ISSN 1043-4526,
+ISBN 9780120164448,
+https://doi.org/10.1016/S1043-4526(02)44007-7.
+(https://www.sciencedirect.com/science/article/pii/S1043452602440077)
+Abstract: Combining the advantages of polysaccharides, proteins and/or lipids offers multicomponent edible films and coatings good mass transfer barrier properties. Multicomponent edible films and coatings could be beneficial to the food industry by leading to innovative applications. The barrier properties of these systems strongly depend upon their structure and chemistry, the interaction between different film components as well as surrounding environment conditions. Future researches on these multi- component systems need to concentrate on the following goals: (1) investigation of the optimal film compositions and specific film-forming conditions for different food systems; (2) study of the film responses in their barrier properties to environmental factors such as RH and temperature; (3) fundamental research of the mechanism of mass transfer and the interaction of different films components and foods; (4) exploration of the feasibility of potential applications in the food industry.
+
+Anka Trajkovska Petkoska, Davor Daniloski, Nathan M. D'Cunha, Nenad Naumovski, Anita T. Broach,
+Edible packaging: Sustainable solutions and novel trends in food packaging,
+Food Research International,
+Volume 140,
+2021,
+109981,
+ISSN 0963-9969,
+https://doi.org/10.1016/j.foodres.2020.109981.
+(https://www.sciencedirect.com/science/article/pii/S0963996920310061)
+Abstract: Novel food packaging techniques are an important area of research to promote food quality and safety. There is a trend towards environmentally sustainable and edible forms of packaging. Edible packaging typically uses sustainable, biodegradable material that is applied as a consumable wrapping or coating around the food, which generates no waste. Numerous studies have recently investigated the importance of edible materials as an added value to packaged foods. Nanotechnology has emerged as a promising method to provide use of bioactives, antimicrobials, vitamins, antioxidants and nutrients to potentially increase the functionality of edible packaging. It can act as edible dispensers of food ingredients as encapsulants, nanofibers, nanoparticles and nanoemulsions. In this way, edible packaging serves as an active form of packaging. It plays an important role in packaged foods by desirably interacting with the food and providing technological functions such as releasing scavenging compounds (antimicrobials and antioxidants), and removing harmful gasses such as oxygen and water vapour which all can decrease products quality and shelf life. Active packaging can also contribute to maintaining the nutritive profile of packaged foods. In this review, authors present the latest information on new technological advances in edible food packaging, their novel applications and provide examples of recent studies where edible packaging possesses also an active role.
+Keywords: Edible coatings; Edible films; Bioactive compounds; Nutraceuticals; Nanotechnologies; Active packaging
+
+Siva Nandhini Suresh, Charumathi Puspharaj, Ramesh Subramani,
+Development of Almond gum/alginate composites to enhance the shelf-life of post-harvest Solanum Lycopersicum L,
+Food Hydrocolloids for Health,
+Volume 2,
+2022,
+100087,
+ISSN 2667-0259,
+https://doi.org/10.1016/j.fhfh.2022.100087.
+(https://www.sciencedirect.com/science/article/pii/S2667025922000346)
+Abstract: Almond Gum/alginate composite (AG/AL) composites namely A1, A2 and A3 were prepared and their physicochemical properties were evaluated. The measured film thickness, moisture and solubility were indistinguishable among the films whereas water contact angle analysis shows that A2 (83.8±1.65) and A3 (86.2±3.19) film has high hydrophobicity than A1 (58.4±3.21). By increasing plasticizer concentration from 0.4% to 0.66%, elongation was increased from 30 to 53 % whereas tensile strength (3.16 to 1.90 Mpa) and water vapor transmission rate (WVTR) decreased from 212 to 160 g/m2/24hr. FT-IR analysis shows that the edible film has O-H, C-H, C=O and –COO functional groups and SEM analysis reveals that the prepared film has even surface due to the strong interaction between polymer and plasticizer. TGA results show major weight loss at 100°C, 190-220°C and 350°C-400°C due to the dehydration/decomposition of water molecules and carbon containing functional groups. Film solution was used as an edible coating in tomatoes and weight loss (WL), titratable acidity (TA), Total soluble solids (TSS), ascorbic acid content (AAC) and anti-microbial activity were determined. The WL analysis shows a significant delay in decay of coated tomatoes over 40 days of storage time whereas control tomatoes decayed on day 25. TA and TSS test confirms that the coating can significantly (P<0.05) prevent the acidity level of tomaotes. Furthermore, the AG/AL coating has great activity against E. coli, Bacillus subtilis, Enterococcus faecalis, Staphylococcus aureus. Therefore, the present study confirms that AG/AL has superior properties and potential as edible films or coating.
+Keywords: Edible coating; biopolymer; Anti-microbial activity; Physicochemical properties
+
+Meral Yıldırım-Yalçın, Mahmut Şeker, Hasan Sadıkoğlu,
+Effect of grape derivatives and cross-linked maize starch coatings on the storage life of strawberry fruit,
+Progress in Organic Coatings,
+Volume 167,
+2022,
+106850,
+ISSN 0300-9440,
+https://doi.org/10.1016/j.porgcoat.2022.106850.
+(https://www.sciencedirect.com/science/article/pii/S0300944022001473)
+Abstract: Edible coatings based on grape juice and cross-linked maize starch enriched with grape seed extract (GSE: 0.5–1.5%) were examined for the effects of the quality properties of strawberries during storage at 4 °C for 12 days. Coating applications reduced the water loss, pH changes, and microbiological counts of strawberries significantly (p < 0.05). The increased amount of GSE in the coating formulation caused a significant decrease in microbial counts and limited the firmness loss. On the final day of storage, coated strawberry samples with solutions containing grape juice and 1.5% GSE had the lowest (p ≤ 0.05) TMAB counts (2.75 ± 0.05 log CFU g−1) and yeast/mold counts (2.88 ± 0.03 log CFU g−1), respectively. Over time, there was a decrease in lightness value and an increase in the redness value of strawberries. These changes were significantly lower (p < 0.05) in strawberries covered with GSE enriched coatings. Also, GSE added coatings preserved ascorbic acid, total anthocyanin, total phenolic content, and antioxidant capacity of strawberries during storage. On the other hand, it was observed that the acceptability value of strawberries coated with high amounts of GSE coating was lower than other coated and uncoated samples. Results showed that coating strawberries with grape derivatives and cross-linked starch can be extend the shelf life of fresh fruit.
+Keywords: Edible coating; Grape juice; Cross-linked starch; Grape seed extract; Fragaria x ananassa
+
+Jianmei Yu,
+2.19 - Stability of Peanuts,
+Editor(s): Pasquale Ferranti,
+Sustainable Food Science - A Comprehensive Approach,
+Elsevier,
+2023,
+Pages 266-288,
+ISBN 9780128241660,
+https://doi.org/10.1016/B978-0-12-823960-5.00017-2.
+(https://www.sciencedirect.com/science/article/pii/B9780128239605000172)
+Abstract: Peanuts (Arachis hypogaea) belong to the family of legumes. Similar to other nuts, peanut is an excellent source of macronutrients and micronutrients but it is more affordable. Desirable peanutty flavor is developed during roasting, frying and other processing which enhances the palatability of peanuts. Thus, peanut has been widely consumed and used as food and feed ingredient for its nutrition value and pleasant flavor. In developing countries, peanuts have been used to combat malnutrition because peanuts are energy dense and nutrient balanced food product which provides sufficient protein, healthy lipid, dietary fiber and micronutrients. The high nutritive value of peanuts makes them a perfect substrate for fungal growth and potential aflatoxin contamination. Therefore, peanut stability includes nutrient stability, flavor stability, and microbial stability. The chemical composition changes during post-harvest curing, drying, storage, processing, and post-processing storage, thus impact the nutritional quality and flavor of peanuts. The main concern of microbial stability of peanut is mold and mycotoxin contamination which is influenced by pre-harvest practice, post-harvest handling and peanut processing. Additionally, pathogenic bacteria, particularly Salmonella has been a critical food safety issue of processed peanuts, especially, peanut butter. This chapter reviewed/discussed peanut stability during post-harvest handling, storage, processing and post-processing storage.
+Keywords: Peanuts; Nutritional composition; Peanut flavor; Fungal growth; Aflatoxin contamination; Post-harvest processing; Lipid oxidation; Nutrient stability; Flavor stability; Microbial stability
+
+Silvia Maria Martelli, Maria Helena Verdan, Vitor Augusto dos Santos Garcia, Guinevere Siqueira da Silva, Caroline Pereira Moura Aranha, Vitor Hugo Neto Martins, Victor Hugo Rodrigues de Souza,
+Chapter 23 - Cinnamon in biocomposite films for antimicrobial food packaging,
+Editor(s): Mohamed Fawzy Ramadan, Mohamed A. Farag,
+Cinnamon,
+Academic Press,
+2025,
+Pages 437-453,
+ISBN 9780443218200,
+https://doi.org/10.1016/B978-0-443-21820-0.00025-8.
+(https://www.sciencedirect.com/science/article/pii/B9780443218200000258)
+Abstract: Foodstuffs are highly vulnerable to contamination caused by microbial pathogens, causing foodborne diseases. Cinnamon is widely used as a food spice, but due to its antibacterial and other pharmacological properties, it can also be used in processing, medicine, and agriculture. Cinnamon essential oil (CEO) exhibits a broad spectrum of antimicrobial and antioxidant effects while restricting the growth of harmful microbes. It can be used as a potential additive in polymer or paper matrixes to increase the shelf life, quality, and safety of the food products they pack. CEO can be directly incorporated within the packaging film in an edible coating, which will be added over foods. There are different ways to incorporate this, such as emulsion systems or CEO encapsulated before incorporation. This chapter provides an overview of different CEO active materials and their potential applications in food to inhibit the growth of pathogens.
+Keywords: Active packaging; biopolymers; cinnamon essential oil; food preservation; composites
+
+Yuliana Vázquez-González, Cristina Prieto, Montserrat Calderón-Santoyo, Juan Arturo Ragazzo-Sánchez, José M. Lagarón,
+Development of antifungal electrospun nanofiber mats containing Meyerozyma caribbica,
+Food Hydrocolloids,
+Volume 147, Part A,
+2024,
+109343,
+ISSN 0268-005X,
+https://doi.org/10.1016/j.foodhyd.2023.109343.
+(https://www.sciencedirect.com/science/article/pii/S0268005X23008895)
+Abstract: To mitigate vegetable and fruit loss caused by post-harvest fungal diseases, polymeric antifungal coatings encapsulating biocontrol yeasts offer a sustainable alternative. Nanofibers derived from pullulan, cashew gum, FucoPol and poly (ethylene oxide) (PEO), were electrospun and loaded with Meyerozyma caribbica (GenBank ID: JQ398674). The morphological, thermal and chemical properties of cashew gum (CG:PEO), FucoPol (FP:PEO), and pullulan nanofibers were characterized. The viability of M. caribbica within the fibers and their in vitro antifungal activity against six phytopathogens were assessed. Morphological analysis exhibited the presence of nanofibers encapsulating M. caribbica. ATR-FTIR spectroscopy identified the absence of interactions between the yeast and polymers. Fibers containing M. caribbica exhibited in vitro fungistatic effects on spore germination. Pullulan nanofibers showed the highest M. caribbica viability and the highest percentage of growth inhibition against the evaluated fungi. These promising nanofibers encapsulating biocontrol yeasts could be used as edible coatings or agricultural aids, which offer an alternative for post-harvest treatment to control fungal diseases, reducing global food loss.
+Keywords: Cashew gum; FucoPol; Pullulan; Electrospinning process; Antifungal nanofibers; M. caribbica
+
+María Alejandra Rojas-Graü, Robert Soliva-Fortuny, Olga Martín-Belloso,
+Edible coatings to incorporate active ingredients to fresh-cut fruits: a review,
+Trends in Food Science & Technology,
+Volume 20, Issue 10,
+2009,
+Pages 438-447,
+ISSN 0924-2244,
+https://doi.org/10.1016/j.tifs.2009.05.002.
+(https://www.sciencedirect.com/science/article/pii/S0924224409001769)
+Abstract: Edible films and coatings are applied on many products to control moisture transfer, gas exchange or oxidation processes. One major advantage of using edible films and coatings is that several active ingredients can be incorporated into the polymer matrix and consumed with the food, thus enhancing safety or even nutritional and sensory attributes. This review discusses the use of edible coatings as carriers of functional ingredients on fresh-cut fruits, including the recent advances in the incorporation of antimicrobials, antibrownings, texture enhancers and nutraceuticals to improve quality and functionality of fresh-cut fruits. Sensory implications, regulatory status and future trends are also reviewed.
+
+Hamed Hosseini, Elham Yaghoubi Hamgini, Seid Mahdi Jafari, Shadi Bolourian,
+Improving the oxidative stability of sunflower seed kernels by edible biopolymeric coatings loaded with rosemary extract,
+Journal of Stored Products Research,
+Volume 89,
+2020,
+101729,
+ISSN 0022-474X,
+https://doi.org/10.1016/j.jspr.2020.101729.
+(https://www.sciencedirect.com/science/article/pii/S0022474X20304744)
+Abstract: An optimized combination of whey protein concentrate (WPC), glycerol and carboxymethyl cellulose (CMC) was determined by evaluating the mechanical properties of edible films and coating percentage on sunflower seed kernels (SUKs). The optimal coating solutions with/without rosemary extract (RAE) were used to improve oxidative stability of SUKs. Moreover, the efficiency of the coated SUKs was assessed in a sesame-based product, as a food system. The optimized composite coating (CMC 0.6% and WPC 8% by total solution weight, and glycerol 51% by WPC weight) provided the better color features for SUKs stored at elevated temperature compared to WPC coatings (10 and 11%, w/w) with a Maillard-induced red color, and it was more effective than CMC (4%, w/w) coating to improve the oxidative stability of the nuts. The RAE had a positive effect on the color characteristics of the composite and CMC coatings; however, it enhanced the oxidation of SUKs, which could be due to disruption of coating polymer network, and thus increasing the oxygen diffusion into the product. The food system containing the coated nuts exhibited a lower oxidation extent in comparison to the control formulation prepared by uncoated ones. Therefore, using an optimal composite coating, reddening of WPC at high temperatures and less oxidation protection efficiency of CMC were resolved as the kernels with desirable color and oxidative stability properties were produced, applicable in the formulation of products needing thermal processing.
+Keywords: Active coating; Carboxymethyl cellulose; Whey protein concentrate
+
+H.J. Park,
+6 - Edible coatings,
+Editor(s): Peter Zeuthen, Leif Bøgh-Sørensen,
+In Woodhead Publishing Series in Food Science, Technology and Nutrition,
+Food Preservation Techniques,
+Woodhead Publishing,
+2003,
+Pages 90-105,
+ISBN 9781855735309,
+https://doi.org/10.1533/9781855737143.1.90.
+(https://www.sciencedirect.com/science/article/pii/B9781855735309500103)
+
+Azam Ranjbar, Amir Hossein Mohammadi, Farid Moradinezhad,
+Aflatoxins control during pre and postharvest stages in commercial pistachio production,
+Journal of Stored Products Research,
+Volume 111,
+2025,
+102563,
+ISSN 0022-474X,
+https://doi.org/10.1016/j.jspr.2025.102563.
+(https://www.sciencedirect.com/science/article/pii/S0022474X25000220)
+Abstract: A stable supply of agricultural products and food safety are among the most important national strategic priorities. Pistachios make a significant contribution to the export of agricultural products in Iran. However, contamination by Aspergillus species and mycotoxins hinders pistachio production, consumption, and export. Making policies and decisions regarding new technologies to control aflatoxins (AFs) production is crucial. Good agricultural practices can reduce sensitivity to AFs by strengthening the defense system and reducing stress. Orchard management strategies, physical isolation and moisture control, thermal and nonthermal treatment, essential oils and edible coating have been employed to control fungi and inhibit AFs production. Currently, biological control is considered an eco-friendly and safe method. This review offers efficient solutions to reduce the spread of AFs in both pre and post-harvest stages.
+Keywords: Aspergillus; Biological control; Food safety; Food security; Mycotoxin
+
+Ramezan Ali Taheri, Marzieh Dehghani, Karim Parastouei,
+Biodegradable packaging using hazelnut and walnut shells enriched with encapsulated oregano oil: Extending strawberry shelf life,
+Journal of Stored Products Research,
+Volume 115,
+2026,
+102817,
+ISSN 0022-474X,
+https://doi.org/10.1016/j.jspr.2025.102817.
+(https://www.sciencedirect.com/science/article/pii/S0022474X25002760)
+Abstract: Biodegradable packaging materials were developed using biocomposites derived from hazelnut shells (HS) and walnut shells (WS), enriched with encapsulated oregano essential oil (OEO) to reduce or control microbial growth. Conventional synthetic packaging contributes to environmental pollution and fails to provide active protection for perishable fruits. Agricultural by-products such as walnut and hazelnut shells remain underutilized in packaging, while oregano essential oil, despite its antimicrobial potential, suffers from volatility and instability. This study therefore investigated whether waste-derived biocomposites enriched with encapsulated OEO could provide both sustainability and extended shelf life for strawberries. OEO was encapsulated within alginate at concentrations of 30, 40, and 50 % (w/w), using calcium chloride (0.5, 1, and 1.5 % w/v) as a cross-linking agent. The optimal formulation (50 % OEO and 0.5 % CaCl2) produced capsules with an average diameter of 2.37 ± 0.36 μm and superior thermal stability. Thermogravimetric analysis (TGA) confirmed the enhanced thermal stability of encapsulated OEO compared to its pure form, while ATR analysis showed that all characteristic peaks of OEO and alginate were retained, indicating no chemical interaction between the components. Among the prepared biocomposites, the formulation containing 50 % WS exhibited the best mechanical performance (flexural and impact strength) and 47.52 % biodegradability after 30 days. When applied as packaging bowls for strawberries stored at 4 ± 0.5 °C, this optimal biocomposite significantly inhibited microbial growth and preserved physicochemical attributes (color, firmness, and soluble solids) as well as sensory quality compared to the control. Most importantly, the optimal treatment extended the shelf life of strawberries from approximately 10 days (control) to 21 days. These findings demonstrate the potential of agricultural waste–based biocomposites enriched with essential oils as sustainable active packaging for fruit preservation.
+Keywords: Biodegradable packaging; Agricultural waste; Oregano essential oil (OEO); Biocomposite; Walnut shell
+
+Wenwen Li, Wenwen Zhang, Dengjie Yao, Muxi Yang, Beibei Zhang, Yu Qin, Delu Ning, Yongliang Zhuang, Lirong Li, Rui Huang,
+Enhanced storability of fresh walnut kernels with zein/tea polyphenol/apple pectin coatings by layer-by-layer assembly technique,
+Food Control,
+Volume 176,
+2025,
+111405,
+ISSN 0956-7135,
+https://doi.org/10.1016/j.foodcont.2025.111405.
+(https://www.sciencedirect.com/science/article/pii/S0956713525002749)
+Abstract: The study utilized zein and apple pectin as matrices with tea polyphenols as functional components to develop three treatment groups for walnut kernels via immersion: a composite zein nanoparticles-pectin coating (composite coating ZNP-P group), multilayer assembled coating pectin-zein nanoparticles-pectin-zein nanoparticles coating (P-ZNP-P-ZNP group), and a sterile water control. After 40 d of cold storage at 4 °C, the P-ZNP-P-ZNP group demonstrated superior preservation effects. Specifically, this group maintained significantly higher moisture content (23.66 %), water activity (0.9750), firmness (3217.81 g), total sweet amino acids (0.83 mg/g), and polyunsaturated fatty acid proportion (53.18 %) compared to control (P < 0.05). Conversely, ΔE (3.77), total viable count (4.08 log CFU/g), lipid oxidation, the response increments of E-nose sensors to sulfide compounds and ammonia/amines, hexanal content (19.27 μg/100g), lipoxygenase activity (13.67 U/g), peroxidase activity (1.71 U/g), and polyphenol oxidase activity (5.11 U/g) were significantly lower than both the ZNP-P group and control. These results indicate that the P-ZNP-P-ZNP multilayer coating creates a gradient barrier that effectively delays physiological metabolism and quality deterioration in walnut kernels, offering a novel technological approach for cold chain preservation.
+Keywords: Layer-by-layer assembled coatings; Fatty acid; Free amino acid; Flavor; Activity of oxidase
+
+Hyun Jin Park,
+16 - Edible coatings for fruit,
+Editor(s): Wim Jongen,
+In Woodhead Publishing Series in Food Science, Technology and Nutrition,
+Fruit and Vegetable Processing,
+Woodhead Publishing,
+2002,
+Pages 331-345,
+ISBN 9781855735484,
+https://doi.org/10.1533/9781855736641.3.331.
+(https://www.sciencedirect.com/science/article/pii/B9781855735484500208)
+
+Julia Idalice Gois Nascimento, Thayza Christina Montenegro Stamford, Natalia Ferrão Castelo Branco Melo, Ihasmyn dos Santos Nunes, Marcos Antônio Barbosa Lima, Maria Manuela Estevez Pintado, Thatiana Montenegro Stamford-Arnaud, Newton Pereira Stamford, Tânia Lúcia Montenegro Stamford,
+Chitosan–citric acid edible coating to control Colletotrichum gloeosporioides and maintain quality parameters of fresh-cut guava,
+International Journal of Biological Macromolecules,
+Volume 163,
+2020,
+Pages 1127-1135,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2020.07.067.
+(https://www.sciencedirect.com/science/article/pii/S0141813020338174)
+Abstract: This study aimed to verify the action of edible chitosan–citric acid (CHI–CA) coating to control Colletotrichum gloeosporioides and maintain quality parameters of fresh-cut guava. Chitosan was obtained from Litopenaeus vannamei shells using high temperature and short exposure times. The minimum inhibitory concentration (MIC) and minimum fungicidal concentration (MFC) of CHI–CA against C. gloeosporioides were determined by macrodilutions at 28 °C/120 h in the absence/presence of CHI–CA (0–10 mg/mL). Scanning electron microscopy was used to evaluate morphological changes in the fungus. Guava slices were coated with CHI–CA (MIC) or 5 mg/mL glycerol (control). Rot incidence and physicochemical, physical, and microbiological factors were determined at 0, 3, 7, and 14 days at 24 °C and 4 °C. Chitosan presented typical structural characterization, 64% deacetylation, and a molecular weight of 1.6 × 104 g/mol. CHI–CA exhibited MIC and MFC values of 5 mg/mL and 10 mg/mL, respectively, and promoted changes in the morphology and cell surface of fungal spores. The fresh-cut guava coated with CHI–CA maintained quality parameters during storage and preserved their sensorial characteristics. Therefore, the use of CHI–CA as a coating is a promising strategy for improving postharvest quality of fresh-cut fruits.
+Keywords: Biopolymer; Anthracnose; Minimally processed fruit; Sensory attributes
+
+Tarcísio Mendes Silva, Antônia Carla De Jesus Oliveira, Amanda Damasceno Leão, Renata Kelly Luna Gomes Ramos, Luise Lopes Chaves, Edson Cavalcanti da Silva-Filho, Monica Felts de La Roca Soares, José Lamartine Soares-Sobrinho,
+Cashew gum as future multipurpose biomacromolecules,
+Carbohydrate Polymers,
+Volume 347,
+2025,
+122749,
+ISSN 0144-8617,
+https://doi.org/10.1016/j.carbpol.2024.122749.
+(https://www.sciencedirect.com/science/article/pii/S0144861724009755)
+Abstract: The review highlights significant advances in delivery systems, with an emphasis on the use of cashew gum (CG), a natural polysaccharide extracted from Anacardium occidentale L., recognized for its remarkable biodegradability and versatility. CG has a wide range of applications spanning sectors such as food, pharmaceuticals, agriculture, and biotechnology. This study examines research focused on the extraction, purification, and chemical modifications of CG, as well as its combination with other biopolymers to enhance physicochemical and mechanical properties. These strategies aim to optimize the gum's characteristics, allowing for the creation of innovative materials with improved performance, expanding its potential applications. This review aims to provide a comprehensive overview of recent research trends, focusing on the utilization of CG as a polymeric component in the development of biomaterials with diverse applications.
+Keywords: Biopolymers; Anacardium occidentale L.; Cashew gum; Chemical modification; Design of new materials
+
+Fatemeh Khoshdouni Farahani, Abdul Rasul Oromiehi, Anousheh Sharifan, Zahra Khoshdouni Farahani,
+Edible films solution developed from carboxymethyl cellulose / sesame oil: Physical, mechanical and microbial attributes of films,
+Applied Food Research,
+Volume 5, Issue 1,
+2025,
+100771,
+ISSN 2772-5022,
+https://doi.org/10.1016/j.afres.2025.100771.
+(https://www.sciencedirect.com/science/article/pii/S2772502225000812)
+Abstract: Strawberry is a fruit with high nutritional value with a short shelf life, and this research provides effective preservation by coating it with edible films of carboxymethyl cellulose and sesame oil. In this study, carboxymethyl cellulose edible film with percentages of 0.0, 0.2, 0.4 and 0.6 % was built from sesame oil and mechanical, physical and microbial characterizations were reviewed. The outcomes of physical and mechanical factors indicated that the tensile strength (8.93 MPa) and elastic modulus in the coating of 0.2 % oil was lower than the control and an increase in the strain at the breaking point (51.73 %) was seen. In water vapor permeability of emulsion films, oil concentration did not make a significant difference (P > 0.05). Microbial agent test results also indicated that edible antimicrobial coatings with 0.2 % sesame oil along with potassium sorbate could create a suitable inhibitory impact on fresh strawberry fruit (0.93 × 103 CFU/gram). This biofilm could extend the shelf life of products with improved formulations and could be combined with other bioactive compounds to add nutritional value.
+Keywords: Sesame oil; Carboxy methyl cellulose; Biopolymer film; Coating; Strawberry; Plasticizer
+
+Rahul Thakur, Penta Pristijono, Christopher J. Scarlett, Michael Bowyer, S.P. Singh, Quan V. Vuong,
+Starch-based films: Major factors affecting their properties,
+International Journal of Biological Macromolecules,
+Volume 132,
+2019,
+Pages 1079-1089,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2019.03.190.
+(https://www.sciencedirect.com/science/article/pii/S0141813019310487)
+Abstract: Starch is the most popular plant polysaccharides, which has been widely used for the development of edible coating films because of its abundance, cost-effectiveness, and excellent film-forming abilities. Starch-based films have good optical, organoleptic and gas barrier properties, however, they have poor mechanical properties. Many attempts have been made to overcome these limitations, such as the addition of co-biopolymers or other secondary additives to improve the mechanical and tensile properties of the films. Properties of the starch-based films can be influenced by many factors, including types of starches, temperature and time during film formation, plasticizers, co-biopolymers, and storage conditions. Understanding the mechanisms of these factors is very important for future studies on the development of starch-based films. This review focuses on starch as a film/coating material and comprehensively discusses the effects of major factors on properties of starch-based films.
+Keywords: Starch; Film; Coating; Gelatinization; Retrogradation
+
+Sanchita Biswas Murmu, Hari Niwas Mishra,
+Optimization of the arabic gum based edible coating formulations with sodium caseinate and tulsi extract for guava,
+LWT,
+Volume 80,
+2017,
+Pages 271-279,
+ISSN 0023-6438,
+https://doi.org/10.1016/j.lwt.2017.02.018.
+(https://www.sciencedirect.com/science/article/pii/S0023643817301172)
+Abstract: Edible coating formulations based on Arabic gum (AG) (0–15 g/100 mL), sodium caseinate (SC) (0–2 g/100 mL) and tulsi extract (TE) (0–5 mL/100 mL) were developed using central composite rotatable design and its effect on quality of guava was studied at 28 ± 2 °C for seven days. The guava peel and pulp color, respiration rate, and weightloss were analyzed after 3rd and 7th days of storage. After seven days pulp firmness, mold growth, and overall acceptability were additionally evaluated. The OTR, CTR, and WVTR of the coated guava with AG concentration in the range of 7.5–12 g/100 mL in the coating formulation was lower than those of the control samples (coated with water). The SC showed significant (p < 0.001) positive effect on CTR, and WVTR; TE showed a significant effect on the carbon dioxide evolution rate; its interaction with AG showed significant effects on the oxygen consumption rates of coated guava. The optimized coating formulation (5 g/100 mL AG, 1 g/100 mL SC and 2.5 mL/100 mL TE) maintained suitable internal gas composition to delay ripening, showed higher overall acceptability and shelf-life of 7 days at 28 ± 2 °C compared to 4 days of control.
+Keywords: Gas transfer rate; Firmness; Polysachharide; Protein; Shelf-life
+
+Aryane Ribeiro Oliveira, Luiza Helena Ehrlich dos Santos, Patrícia Carvalho Rios, Ítalo Careli-Gondim, Gabriel de Siqueira Silva, Leonardo Gomes Costa, Cristiane Maria Ascari Morgado, André José de Campos,
+Bioactive and physicochemical analyses and the role of refrigerated storage in enhancing the utilization and marketability of cerrado dwarf cashew (Anacardium humile A.St.-Hil),
+Postharvest Biology and Technology,
+Volume 235,
+2026,
+114223,
+ISSN 0925-5214,
+https://doi.org/10.1016/j.postharvbio.2026.114223.
+(https://www.sciencedirect.com/science/article/pii/S0925521426000724)
+Abstract: Refrigerated storage is a key strategy to extend the postharvest life of fruits, particularly native and underutilized species harvested under extractivist systems, where postharvest losses remain a major challenge. Anacardium humile (dwarf cashew), a native fruit from the Brazilian Cerrado, represents an important model for understanding postharvest behavior under conditions of high biological variability. This study evaluated the effects of storage temperatures ranging from 6 to 24 °C on the physicochemical attributes and bioactive profile of A. humile peduncles over a 15-day period. Multivariate and univariate analyses demonstrated that temperatures below 10 °C significantly slowed physiological deterioration, reduced weight loss, delayed respiration decline, and preserved firmness and color attributes. Low temperatures also mitigated ascorbic acid degradation and favored the retention or accumulation of polyphenols and antioxidant activity. In contrast, storage at temperatures ≥ 10 °C accelerated senescence, resulting in rapid softening, enzymatic browning, and depletion of key nutrients. The integrative assessment identified 6 °C as the most effective condition for maintaining postharvest quality for up to 15 days, while 8 °C was viable for shorter storage periods. Beyond species-specific implications, these findings provide transferable insights into temperature management strategies for native, tropical, and non-conventional fruits, supporting sustainable supply chains, value addition, and biodiversity-based food systems.
+Keywords: Cajuzinho-do-cerrado; Cold storage; Bioactive compounds; Postharvest quality; Antioxidant activity
+
+Farrakh Naveed, Aamir Nawaz, Sajid Ali, Shaghef Ejaz, Muhammad Shahzad Saleem,
+Almond gum based hydrocolloid coating delays surface reddening and suppresses softening of harvested jujube (Ziziphus mauritiana L.) fruit,
+Progress in Organic Coatings,
+Volume 194,
+2024,
+108554,
+ISSN 0300-9440,
+https://doi.org/10.1016/j.porgcoat.2024.108554.
+(https://www.sciencedirect.com/science/article/pii/S0300944024003461)
+Abstract: Freshly harvested jujube fruit is prone to prompt surface reddening thereby resulting in rapid ripening and senescence. In the current study, fruit were treated with almond gum (10 %) and stored for 15 days (d) at 20 ± 1 °C to investigate the impact of said edible coating on the ripening and softening of jujube. It was observed that almond gum application inhibited loss in physiological weight and reduced rotting rate concomitant with higher chlorophyll contents along with lower surface reddening and total anthocyanins accumulation. The almond gum treatment showed reduced oxidative stress related indicators as well as preserved membrane integrity and suppressed accumulation of malondialdehyde (MDA). In the same way, metabolic activities such as respiration rate and ethylene production were substantially suppressed which in turn resulted in reduced increase in the activity of cellulase (CX), pectin methylesterase (PME), β-galactosidase (β-gal) and polygalacturonase (PG) enzymes. The delayed increase in hydrolase enzymes activity in almond gum coated fruit ultimately resulted in higher firmness as well as CDTA-soluble pectin (CSP), Na2CO3 soluble pectin (NSP), protopectin (PRN), hemicellulose and cellulose along with reduced content of water soluble pectin (WSP). In addition, almond gum treatment was also effective in suppressing the decline in ascorbic acid content and titratable acidity (TA) and delaying the prompt increase in total soluble solids (TSS) and ripening index (RI) along with better sensory quality. In conclusion, almond gum could be used to delay softening of fresh jujube fruit during storage.
+Keywords: Almond gum; Flesh firmness; Jujube fruit; Cell wall polysaccharides; Reddening index; Oxidative stress
+
+Shikha Sharma, Kohei Nakano, Santosh Kumar, Vimal Katiyar,
+Edible packaging to prolong postharvest shelf-life of fruits and vegetables: A review,
+Food Chemistry Advances,
+Volume 4,
+2024,
+100711,
+ISSN 2772-753X,
+https://doi.org/10.1016/j.focha.2024.100711.
+(https://www.sciencedirect.com/science/article/pii/S2772753X24001072)
+Abstract: Edible packaging made from natural biomaterials is a potential substitute for non-biodegradable, non-renewable, waste-accumulating, and greenhouse gases emitting synthetic plastics packaging, which maintain food quality, and improve shelf-life. Edible coating or wrapping acts as a protective layer on fruits and vegetables (F&V), which decreases respiration, transpiration, ethylene production, microbial deterioration, and thus maintain quality and extend postharvest shelf-life of the F&V. Edible films and coatings are formulated from biopolymers, plasticizers, and additives, such as active agents particularly of natural origin. The edible films are mainly manufactured by solvent casting and extrusion methods, and are characterized for the specific application by measuring their morphological, mechanical, thermal, and barrier properties. Dip-coating, spraying, or brushing techniques are mainly employed for edible coating on F&V. The current review work primarily discusses on fabrication of edible films and coatings, and their applications in enhancing the postharvest shelf-life of F&V.
+Keywords: Sustainable packaging; Edible coating; Active films; Fruits and vegetables; Postharvest shelf-life
+
+Sanjeev Kumar, Bhaskar Sanyal, Sudhanshu Saxena, Satyendra Gautam,
+Chapter 10 - Radiation-mediated modifications in the properties of plant-based proteins for various applications,
+Editor(s): C.K. Sunil, Venkatesh Meda, V. Palanimuthu,
+Plant-Based Proteins Processing,
+Academic Press,
+2026,
+Pages 173-184,
+ISBN 9780443339554,
+https://doi.org/10.1016/B978-0-443-33955-4.00009-7.
+(https://www.sciencedirect.com/science/article/pii/B9780443339554000097)
+Abstract: Proteins are macromolecules that have both structural and functional relevance during the intended applications. This includes its ability to impart functional (textural, sensory, and nutritional) properties to food and its products. Nature and order of amino acids in a polypeptide are foundational to all protein qualities, which are often affected by various treatments (including physical, chemical, and biological). Functionality of a protein also depends upon its physico-chemical properties, which have an impact on its various applications. Edible applications may be due to its gelling, foaming, emulsifying, and film generation capacity. These properties make it possible to utilize protein as food additives or supplements, edible coatings, food stabilizers, and bioactive peptides. Non-edible applications include biodegradable films, hydrogels, and adhesives. The applications of proteins can be further expanded by their modifications using different approaches. Radiation technology is one such approach that is widely used in applications such as crosslinking of synthetic polymers and biopolymers, as well as for the enhancement of bioactivities in a product-dependent manner. The impact of radiation on proteins primarily causes polymerization or depolymerization. The effect of gamma, electron beam, and ultraviolet radiations on the characteristics of plant-based proteins has been discussed herewith.
+Keywords: Bioactivities; Depolymerization; Polymerization; Protein functionality; Radiation technology
+
+Sahil Chaudhary, Satish Kumar, Vikas Kumar, Rakesh Sharma,
+Chitosan nanoemulsions as advanced edible coatings for fruits and vegetables: Composition, fabrication and developments in last decade,
+International Journal of Biological Macromolecules,
+Volume 152,
+2020,
+Pages 154-170,
+ISSN 0141-8130,
+https://doi.org/10.1016/j.ijbiomac.2020.02.276.
+(https://www.sciencedirect.com/science/article/pii/S0141813020304463)
+Abstract: The rejection of chemical additives has attracted the attention of consumers and research personals to continuously improve quality and safety of food. Chitosan is a polyelectrolyte non-toxic, antimicrobial and biocompatible polysaccharide. The annual production of chitin (poly-β-(1–4)-N-acetyl-D-glucosamine), the acetylated form of chitosan has been estimated 105 million tons and is approved by EU for use in plant protection (Reg. EU 2014/563). The film formation presents 20 to 30% of total chitosan activity apart from elicitation (30 to 40%) and antimicrobial activity (35 to 45%). Chitosan polymer scaffolds particularly nanoemulsions provides a protective covering to the fresh produce and acts as a carrier for antimicrobial agents and various functional compounds. The nanoemulsions are designed as smart functional coatings by microfluidization, high-pressure homogenization, ultra-sonication, phase inversion (PIC and PIT) and spontaneous emulsification. Considering the research reports available in the last decade, chitosan film production and related issues alluded to the possibilities for explorations of commercial applications on fresh foods. Chitosan-based biofilms with specific barriers and functional properties can be produced to address specific requirements of target food. Keeping in view the widespread applications of chitosan nanoemulsions for various food applications, the present review has been compiled to provide an insight into the developments and improvements made in the production, functionality, and delivery of bioactive substances for quality retention of fresh horticultural produce.
+Keywords: Chitosan; Synthesis; Nanoemulsions; Functionality; Postharvest management; Mechanisms
+
+Pravin Ojha, Tang Xia, Zhou Liangfu, Sheng Qinghai, Bimal Chitrakar, Roman Karki, Tan Jianxin, Liu Jielin,
+Unlocking the nutritional profile of apricot (Prunus armeniaca L) kernel as a valuable by-product for future exploration,
+Future Foods,
+Volume 11,
+2025,
+100632,
+ISSN 2666-8335,
+https://doi.org/10.1016/j.fufo.2025.100632.
+(https://www.sciencedirect.com/science/article/pii/S2666833525000942)
+Abstract: This review comprehended the nutritional composition, polyphenolic content, and debittering processes applicable to apricot kernels with a special focus on identifying areas for future research and commercial application. Apricot kernels are a rich source of high-quality proteins, unsaturated fatty acids, dietary fibre, minerals, and bioactive compounds. However, the amygdalin content at a dose of 0.5–3.5 mg/kg body weight presents toxicity risks by inactivating the respiratory cytochrome oxidase enzyme. Amygdalin is high in bitter variety, and requires reduction to safe levels. While numerous validated debittering methods are available, many are associated with losses of beneficial phytochemicals, necessitating further exploration into more efficient and gentle processes. With appropriate processing techniques, apricot kernels hold considerable promise as a valuable ingredient for food and nutraceuticals. This review highlighted key areas for future research, including novel debittering technologies and commercial exploration of apricot kernels for novel and healthy product formulations. This includes modifying proteins for industrial raw materials, developing novel food products by exploring extrusion technology, and creating healthy product formulations by integrating biopeptides and polyphenols.
+Keywords: Apricot kernel; Debittering; Nutraceuticals; Peptides; Polyphenols
